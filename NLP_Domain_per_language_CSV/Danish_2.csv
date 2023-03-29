@@ -1,0 +1,967 @@
+Domain,NLP Task,Value
+Mathematics,temporal processing,0
+Mathematics,automatic summarization,0
+Mathematics,grammatical error correction,0
+Mathematics,machine translation,0
+Mathematics,natural-language understanding,0
+Mathematics,natural-language generation,0
+Mathematics,book generation,0
+Mathematics,document AI,0
+Mathematics,dialogue management,0
+Mathematics,question answering,0
+Mathematics,text-to-image generation,0
+Mathematics,text-to-scene generation,0
+Mathematics,text-to-video,0
+Mathematics,information retrieval,0
+Mathematics,information extraction,0
+Mathematics,multimodal systems,0
+Mathematics,automated writing assistance,0
+Mathematics,text simplification,0
+Mathematics,author profiling,0
+Mathematics,spam detection,0
+Mathematics,virtual agents,0
+Computer science,temporal processing,0
+Computer science,automatic summarization,0
+Computer science,grammatical error correction,0
+Computer science,machine translation,0
+Computer science,natural-language understanding,0
+Computer science,natural-language generation,0
+Computer science,book generation,0
+Computer science,document AI,0
+Computer science,dialogue management,0
+Computer science,question answering,0
+Computer science,text-to-image generation,0
+Computer science,text-to-scene generation,0
+Computer science,text-to-video,0
+Computer science,information retrieval,0
+Computer science,information extraction,0
+Computer science,multimodal systems,0
+Computer science,automated writing assistance,0
+Computer science,text simplification,0
+Computer science,author profiling,0
+Computer science,spam detection,0
+Computer science,virtual agents,0
+Physics,temporal processing,0
+Physics,automatic summarization,0
+Physics,grammatical error correction,0
+Physics,machine translation,0
+Physics,natural-language understanding,0
+Physics,natural-language generation,0
+Physics,book generation,0
+Physics,document AI,0
+Physics,dialogue management,0
+Physics,question answering,0
+Physics,text-to-image generation,0
+Physics,text-to-scene generation,0
+Physics,text-to-video,0
+Physics,information retrieval,0
+Physics,information extraction,0
+Physics,multimodal systems,0
+Physics,automated writing assistance,0
+Physics,text simplification,0
+Physics,author profiling,0
+Physics,spam detection,0
+Physics,virtual agents,0
+Chemistry,temporal processing,0
+Chemistry,automatic summarization,0
+Chemistry,grammatical error correction,0
+Chemistry,machine translation,0
+Chemistry,natural-language understanding,0
+Chemistry,natural-language generation,0
+Chemistry,book generation,0
+Chemistry,document AI,0
+Chemistry,dialogue management,0
+Chemistry,question answering,0
+Chemistry,text-to-image generation,0
+Chemistry,text-to-scene generation,0
+Chemistry,text-to-video,0
+Chemistry,information retrieval,0
+Chemistry,information extraction,0
+Chemistry,multimodal systems,0
+Chemistry,automated writing assistance,0
+Chemistry,text simplification,0
+Chemistry,author profiling,0
+Chemistry,spam detection,0
+Chemistry,virtual agents,0
+Environmental sciences,temporal processing,0
+Environmental sciences,automatic summarization,0
+Environmental sciences,grammatical error correction,0
+Environmental sciences,machine translation,0
+Environmental sciences,natural-language understanding,0
+Environmental sciences,natural-language generation,0
+Environmental sciences,book generation,0
+Environmental sciences,document AI,0
+Environmental sciences,dialogue management,0
+Environmental sciences,question answering,0
+Environmental sciences,text-to-image generation,0
+Environmental sciences,text-to-scene generation,0
+Environmental sciences,text-to-video,0
+Environmental sciences,information retrieval,0
+Environmental sciences,information extraction,0
+Environmental sciences,multimodal systems,0
+Environmental sciences,automated writing assistance,0
+Environmental sciences,text simplification,0
+Environmental sciences,author profiling,0
+Environmental sciences,spam detection,0
+Environmental sciences,virtual agents,0
+Biological sciences,temporal processing,0
+Biological sciences,automatic summarization,0
+Biological sciences,grammatical error correction,0
+Biological sciences,machine translation,0
+Biological sciences,natural-language understanding,0
+Biological sciences,natural-language generation,0
+Biological sciences,book generation,0
+Biological sciences,document AI,0
+Biological sciences,dialogue management,0
+Biological sciences,question answering,0
+Biological sciences,text-to-image generation,0
+Biological sciences,text-to-scene generation,0
+Biological sciences,text-to-video,0
+Biological sciences,information retrieval,0
+Biological sciences,information extraction,0
+Biological sciences,multimodal systems,0
+Biological sciences,automated writing assistance,0
+Biological sciences,text simplification,0
+Biological sciences,author profiling,0
+Biological sciences,spam detection,0
+Biological sciences,virtual agents,0
+Civil engineering,temporal processing,0
+Civil engineering,automatic summarization,0
+Civil engineering,grammatical error correction,0
+Civil engineering,machine translation,0
+Civil engineering,natural-language understanding,0
+Civil engineering,natural-language generation,0
+Civil engineering,book generation,0
+Civil engineering,document AI,0
+Civil engineering,dialogue management,0
+Civil engineering,question answering,0
+Civil engineering,text-to-image generation,0
+Civil engineering,text-to-scene generation,0
+Civil engineering,text-to-video,0
+Civil engineering,information retrieval,0
+Civil engineering,information extraction,0
+Civil engineering,multimodal systems,0
+Civil engineering,automated writing assistance,0
+Civil engineering,text simplification,0
+Civil engineering,author profiling,0
+Civil engineering,spam detection,0
+Civil engineering,virtual agents,0
+Electrical engineering,temporal processing,0
+Electrical engineering,automatic summarization,0
+Electrical engineering,grammatical error correction,0
+Electrical engineering,machine translation,0
+Electrical engineering,natural-language understanding,0
+Electrical engineering,natural-language generation,0
+Electrical engineering,book generation,0
+Electrical engineering,document AI,0
+Electrical engineering,dialogue management,0
+Electrical engineering,question answering,0
+Electrical engineering,text-to-image generation,0
+Electrical engineering,text-to-scene generation,0
+Electrical engineering,text-to-video,0
+Electrical engineering,information retrieval,0
+Electrical engineering,information extraction,0
+Electrical engineering,multimodal systems,0
+Electrical engineering,automated writing assistance,0
+Electrical engineering,text simplification,0
+Electrical engineering,author profiling,0
+Electrical engineering,spam detection,0
+Electrical engineering,virtual agents,0
+Electronic engineering,temporal processing,0
+Electronic engineering,automatic summarization,0
+Electronic engineering,grammatical error correction,0
+Electronic engineering,machine translation,0
+Electronic engineering,natural-language understanding,0
+Electronic engineering,natural-language generation,0
+Electronic engineering,book generation,0
+Electronic engineering,document AI,0
+Electronic engineering,dialogue management,0
+Electronic engineering,question answering,0
+Electronic engineering,text-to-image generation,0
+Electronic engineering,text-to-scene generation,0
+Electronic engineering,text-to-video,0
+Electronic engineering,information retrieval,0
+Electronic engineering,information extraction,0
+Electronic engineering,multimodal systems,0
+Electronic engineering,automated writing assistance,0
+Electronic engineering,text simplification,0
+Electronic engineering,author profiling,0
+Electronic engineering,spam detection,0
+Electronic engineering,virtual agents,0
+Information engineering,temporal processing,0
+Information engineering,automatic summarization,0
+Information engineering,grammatical error correction,0
+Information engineering,machine translation,0
+Information engineering,natural-language understanding,0
+Information engineering,natural-language generation,0
+Information engineering,book generation,0
+Information engineering,document AI,0
+Information engineering,dialogue management,0
+Information engineering,question answering,0
+Information engineering,text-to-image generation,0
+Information engineering,text-to-scene generation,0
+Information engineering,text-to-video,0
+Information engineering,information retrieval,0
+Information engineering,information extraction,0
+Information engineering,multimodal systems,0
+Information engineering,automated writing assistance,0
+Information engineering,text simplification,0
+Information engineering,author profiling,0
+Information engineering,spam detection,0
+Information engineering,virtual agents,0
+Mechanical engineering,temporal processing,0
+Mechanical engineering,automatic summarization,0
+Mechanical engineering,grammatical error correction,0
+Mechanical engineering,machine translation,0
+Mechanical engineering,natural-language understanding,0
+Mechanical engineering,natural-language generation,0
+Mechanical engineering,book generation,0
+Mechanical engineering,document AI,0
+Mechanical engineering,dialogue management,0
+Mechanical engineering,question answering,0
+Mechanical engineering,text-to-image generation,0
+Mechanical engineering,text-to-scene generation,0
+Mechanical engineering,text-to-video,0
+Mechanical engineering,information retrieval,0
+Mechanical engineering,information extraction,0
+Mechanical engineering,multimodal systems,0
+Mechanical engineering,automated writing assistance,0
+Mechanical engineering,text simplification,0
+Mechanical engineering,author profiling,0
+Mechanical engineering,spam detection,0
+Mechanical engineering,virtual agents,0
+Chemical engineering,temporal processing,0
+Chemical engineering,automatic summarization,0
+Chemical engineering,grammatical error correction,0
+Chemical engineering,machine translation,0
+Chemical engineering,natural-language understanding,0
+Chemical engineering,natural-language generation,0
+Chemical engineering,book generation,0
+Chemical engineering,document AI,0
+Chemical engineering,dialogue management,0
+Chemical engineering,question answering,0
+Chemical engineering,text-to-image generation,0
+Chemical engineering,text-to-scene generation,0
+Chemical engineering,text-to-video,0
+Chemical engineering,information retrieval,0
+Chemical engineering,information extraction,0
+Chemical engineering,multimodal systems,0
+Chemical engineering,automated writing assistance,0
+Chemical engineering,text simplification,0
+Chemical engineering,author profiling,0
+Chemical engineering,spam detection,0
+Chemical engineering,virtual agents,0
+Materials engineering,temporal processing,0
+Materials engineering,automatic summarization,0
+Materials engineering,grammatical error correction,0
+Materials engineering,machine translation,0
+Materials engineering,natural-language understanding,0
+Materials engineering,natural-language generation,0
+Materials engineering,book generation,0
+Materials engineering,document AI,0
+Materials engineering,dialogue management,0
+Materials engineering,question answering,0
+Materials engineering,text-to-image generation,0
+Materials engineering,text-to-scene generation,0
+Materials engineering,text-to-video,0
+Materials engineering,information retrieval,0
+Materials engineering,information extraction,0
+Materials engineering,multimodal systems,0
+Materials engineering,automated writing assistance,0
+Materials engineering,text simplification,0
+Materials engineering,author profiling,0
+Materials engineering,spam detection,0
+Materials engineering,virtual agents,0
+Medical engineering,temporal processing,0
+Medical engineering,automatic summarization,0
+Medical engineering,grammatical error correction,0
+Medical engineering,machine translation,0
+Medical engineering,natural-language understanding,0
+Medical engineering,natural-language generation,0
+Medical engineering,book generation,0
+Medical engineering,document AI,0
+Medical engineering,dialogue management,0
+Medical engineering,question answering,0
+Medical engineering,text-to-image generation,0
+Medical engineering,text-to-scene generation,0
+Medical engineering,text-to-video,0
+Medical engineering,information retrieval,0
+Medical engineering,information extraction,0
+Medical engineering,multimodal systems,0
+Medical engineering,automated writing assistance,0
+Medical engineering,text simplification,0
+Medical engineering,author profiling,0
+Medical engineering,spam detection,0
+Medical engineering,virtual agents,0
+Environmental engineering,temporal processing,0
+Environmental engineering,automatic summarization,0
+Environmental engineering,grammatical error correction,0
+Environmental engineering,machine translation,0
+Environmental engineering,natural-language understanding,0
+Environmental engineering,natural-language generation,0
+Environmental engineering,book generation,0
+Environmental engineering,document AI,0
+Environmental engineering,dialogue management,0
+Environmental engineering,question answering,0
+Environmental engineering,text-to-image generation,0
+Environmental engineering,text-to-scene generation,0
+Environmental engineering,text-to-video,0
+Environmental engineering,information retrieval,0
+Environmental engineering,information extraction,0
+Environmental engineering,multimodal systems,0
+Environmental engineering,automated writing assistance,0
+Environmental engineering,text simplification,0
+Environmental engineering,author profiling,0
+Environmental engineering,spam detection,0
+Environmental engineering,virtual agents,0
+Environmental biotechnology,temporal processing,0
+Environmental biotechnology,automatic summarization,0
+Environmental biotechnology,grammatical error correction,0
+Environmental biotechnology,machine translation,0
+Environmental biotechnology,natural-language understanding,0
+Environmental biotechnology,natural-language generation,0
+Environmental biotechnology,book generation,0
+Environmental biotechnology,document AI,0
+Environmental biotechnology,dialogue management,0
+Environmental biotechnology,question answering,0
+Environmental biotechnology,text-to-image generation,0
+Environmental biotechnology,text-to-scene generation,0
+Environmental biotechnology,text-to-video,0
+Environmental biotechnology,information retrieval,0
+Environmental biotechnology,information extraction,0
+Environmental biotechnology,multimodal systems,0
+Environmental biotechnology,automated writing assistance,0
+Environmental biotechnology,text simplification,0
+Environmental biotechnology,author profiling,0
+Environmental biotechnology,spam detection,0
+Environmental biotechnology,virtual agents,0
+Industrial biotechnology,temporal processing,0
+Industrial biotechnology,automatic summarization,0
+Industrial biotechnology,grammatical error correction,0
+Industrial biotechnology,machine translation,0
+Industrial biotechnology,natural-language understanding,0
+Industrial biotechnology,natural-language generation,0
+Industrial biotechnology,book generation,0
+Industrial biotechnology,document AI,0
+Industrial biotechnology,dialogue management,0
+Industrial biotechnology,question answering,0
+Industrial biotechnology,text-to-image generation,0
+Industrial biotechnology,text-to-scene generation,0
+Industrial biotechnology,text-to-video,0
+Industrial biotechnology,information retrieval,0
+Industrial biotechnology,information extraction,0
+Industrial biotechnology,multimodal systems,0
+Industrial biotechnology,automated writing assistance,0
+Industrial biotechnology,text simplification,0
+Industrial biotechnology,author profiling,0
+Industrial biotechnology,spam detection,0
+Industrial biotechnology,virtual agents,0
+Nano-technology,temporal processing,0
+Nano-technology,automatic summarization,0
+Nano-technology,grammatical error correction,0
+Nano-technology,machine translation,0
+Nano-technology,natural-language understanding,0
+Nano-technology,natural-language generation,0
+Nano-technology,book generation,0
+Nano-technology,document AI,0
+Nano-technology,dialogue management,0
+Nano-technology,question answering,0
+Nano-technology,text-to-image generation,0
+Nano-technology,text-to-scene generation,0
+Nano-technology,text-to-video,0
+Nano-technology,information retrieval,0
+Nano-technology,information extraction,0
+Nano-technology,multimodal systems,0
+Nano-technology,automated writing assistance,0
+Nano-technology,text simplification,0
+Nano-technology,author profiling,0
+Nano-technology,spam detection,0
+Nano-technology,virtual agents,0
+Agriculture,temporal processing,0
+Agriculture,automatic summarization,0
+Agriculture,grammatical error correction,0
+Agriculture,machine translation,0
+Agriculture,natural-language understanding,0
+Agriculture,natural-language generation,0
+Agriculture,book generation,0
+Agriculture,document AI,0
+Agriculture,dialogue management,0
+Agriculture,question answering,0
+Agriculture,text-to-image generation,0
+Agriculture,text-to-scene generation,0
+Agriculture,text-to-video,0
+Agriculture,information retrieval,0
+Agriculture,information extraction,0
+Agriculture,multimodal systems,0
+Agriculture,automated writing assistance,0
+Agriculture,text simplification,0
+Agriculture,author profiling,0
+Agriculture,spam detection,0
+Agriculture,virtual agents,0
+Forestry,temporal processing,0
+Forestry,automatic summarization,0
+Forestry,grammatical error correction,0
+Forestry,machine translation,0
+Forestry,natural-language understanding,0
+Forestry,natural-language generation,0
+Forestry,book generation,0
+Forestry,document AI,0
+Forestry,dialogue management,0
+Forestry,question answering,0
+Forestry,text-to-image generation,0
+Forestry,text-to-scene generation,0
+Forestry,text-to-video,0
+Forestry,information retrieval,0
+Forestry,information extraction,0
+Forestry,multimodal systems,0
+Forestry,automated writing assistance,0
+Forestry,text simplification,0
+Forestry,author profiling,0
+Forestry,spam detection,0
+Forestry,virtual agents,0
+Fisheries,temporal processing,0
+Fisheries,automatic summarization,0
+Fisheries,grammatical error correction,0
+Fisheries,machine translation,0
+Fisheries,natural-language understanding,0
+Fisheries,natural-language generation,0
+Fisheries,book generation,0
+Fisheries,document AI,0
+Fisheries,dialogue management,0
+Fisheries,question answering,0
+Fisheries,text-to-image generation,0
+Fisheries,text-to-scene generation,0
+Fisheries,text-to-video,0
+Fisheries,information retrieval,0
+Fisheries,information extraction,0
+Fisheries,multimodal systems,0
+Fisheries,automated writing assistance,0
+Fisheries,text simplification,0
+Fisheries,author profiling,0
+Fisheries,spam detection,0
+Fisheries,virtual agents,0
+Animal and dairy science,temporal processing,0
+Animal and dairy science,automatic summarization,0
+Animal and dairy science,grammatical error correction,0
+Animal and dairy science,machine translation,0
+Animal and dairy science,natural-language understanding,0
+Animal and dairy science,natural-language generation,0
+Animal and dairy science,book generation,0
+Animal and dairy science,document AI,0
+Animal and dairy science,dialogue management,0
+Animal and dairy science,question answering,0
+Animal and dairy science,text-to-image generation,0
+Animal and dairy science,text-to-scene generation,0
+Animal and dairy science,text-to-video,0
+Animal and dairy science,information retrieval,0
+Animal and dairy science,information extraction,0
+Animal and dairy science,multimodal systems,0
+Animal and dairy science,automated writing assistance,0
+Animal and dairy science,text simplification,0
+Animal and dairy science,author profiling,0
+Animal and dairy science,spam detection,0
+Animal and dairy science,virtual agents,0
+Veterenary,temporal processing,0
+Veterenary,automatic summarization,0
+Veterenary,grammatical error correction,0
+Veterenary,machine translation,0
+Veterenary,natural-language understanding,0
+Veterenary,natural-language generation,0
+Veterenary,book generation,0
+Veterenary,document AI,0
+Veterenary,dialogue management,0
+Veterenary,question answering,0
+Veterenary,text-to-image generation,0
+Veterenary,text-to-scene generation,0
+Veterenary,text-to-video,0
+Veterenary,information retrieval,0
+Veterenary,information extraction,0
+Veterenary,multimodal systems,0
+Veterenary,automated writing assistance,0
+Veterenary,text simplification,0
+Veterenary,author profiling,0
+Veterenary,spam detection,0
+Veterenary,virtual agents,0
+Agricultural biotechnology,temporal processing,0
+Agricultural biotechnology,automatic summarization,0
+Agricultural biotechnology,grammatical error correction,0
+Agricultural biotechnology,machine translation,0
+Agricultural biotechnology,natural-language understanding,0
+Agricultural biotechnology,natural-language generation,0
+Agricultural biotechnology,book generation,0
+Agricultural biotechnology,document AI,0
+Agricultural biotechnology,dialogue management,0
+Agricultural biotechnology,question answering,0
+Agricultural biotechnology,text-to-image generation,0
+Agricultural biotechnology,text-to-scene generation,0
+Agricultural biotechnology,text-to-video,0
+Agricultural biotechnology,information retrieval,0
+Agricultural biotechnology,information extraction,0
+Agricultural biotechnology,multimodal systems,0
+Agricultural biotechnology,automated writing assistance,0
+Agricultural biotechnology,text simplification,0
+Agricultural biotechnology,author profiling,0
+Agricultural biotechnology,spam detection,0
+Agricultural biotechnology,virtual agents,0
+Psychology,temporal processing,0
+Psychology,automatic summarization,0
+Psychology,grammatical error correction,0
+Psychology,machine translation,0
+Psychology,natural-language understanding,0
+Psychology,natural-language generation,0
+Psychology,book generation,0
+Psychology,document AI,0
+Psychology,dialogue management,0
+Psychology,question answering,0
+Psychology,text-to-image generation,0
+Psychology,text-to-scene generation,0
+Psychology,text-to-video,0
+Psychology,information retrieval,0
+Psychology,information extraction,0
+Psychology,multimodal systems,0
+Psychology,automated writing assistance,0
+Psychology,text simplification,0
+Psychology,author profiling,0
+Psychology,spam detection,0
+Psychology,virtual agents,0
+Cognitive sciences,temporal processing,0
+Cognitive sciences,automatic summarization,0
+Cognitive sciences,grammatical error correction,0
+Cognitive sciences,machine translation,0
+Cognitive sciences,natural-language understanding,0
+Cognitive sciences,natural-language generation,0
+Cognitive sciences,book generation,0
+Cognitive sciences,document AI,0
+Cognitive sciences,dialogue management,0
+Cognitive sciences,question answering,0
+Cognitive sciences,text-to-image generation,0
+Cognitive sciences,text-to-scene generation,0
+Cognitive sciences,text-to-video,0
+Cognitive sciences,information retrieval,0
+Cognitive sciences,information extraction,0
+Cognitive sciences,multimodal systems,0
+Cognitive sciences,automated writing assistance,0
+Cognitive sciences,text simplification,0
+Cognitive sciences,author profiling,0
+Cognitive sciences,spam detection,0
+Cognitive sciences,virtual agents,0
+Economics,temporal processing,0
+Economics,automatic summarization,0
+Economics,grammatical error correction,0
+Economics,machine translation,0
+Economics,natural-language understanding,0
+Economics,natural-language generation,0
+Economics,book generation,0
+Economics,document AI,0
+Economics,dialogue management,0
+Economics,question answering,0
+Economics,text-to-image generation,0
+Economics,text-to-scene generation,0
+Economics,text-to-video,0
+Economics,information retrieval,0
+Economics,information extraction,0
+Economics,multimodal systems,0
+Economics,automated writing assistance,0
+Economics,text simplification,0
+Economics,author profiling,0
+Economics,spam detection,0
+Economics,virtual agents,0
+Business,temporal processing,0
+Business,automatic summarization,0
+Business,grammatical error correction,0
+Business,machine translation,4
+Business,natural-language understanding,1
+Business,natural-language generation,0
+Business,book generation,0
+Business,document AI,0
+Business,dialogue management,0
+Business,question answering,0
+Business,text-to-image generation,0
+Business,text-to-scene generation,0
+Business,text-to-video,0
+Business,information retrieval,0
+Business,information extraction,0
+Business,multimodal systems,0
+Business,automated writing assistance,0
+Business,text simplification,0
+Business,author profiling,0
+Business,spam detection,0
+Business,virtual agents,0
+Finance,temporal processing,0
+Finance,automatic summarization,0
+Finance,grammatical error correction,0
+Finance,machine translation,1
+Finance,natural-language understanding,0
+Finance,natural-language generation,0
+Finance,book generation,0
+Finance,document AI,0
+Finance,dialogue management,0
+Finance,question answering,0
+Finance,text-to-image generation,0
+Finance,text-to-scene generation,0
+Finance,text-to-video,0
+Finance,information retrieval,0
+Finance,information extraction,0
+Finance,multimodal systems,0
+Finance,automated writing assistance,0
+Finance,text simplification,0
+Finance,author profiling,0
+Finance,spam detection,0
+Finance,virtual agents,0
+Tourism,temporal processing,0
+Tourism,automatic summarization,0
+Tourism,grammatical error correction,0
+Tourism,machine translation,0
+Tourism,natural-language understanding,0
+Tourism,natural-language generation,0
+Tourism,book generation,0
+Tourism,document AI,0
+Tourism,dialogue management,0
+Tourism,question answering,0
+Tourism,text-to-image generation,0
+Tourism,text-to-scene generation,0
+Tourism,text-to-video,0
+Tourism,information retrieval,0
+Tourism,information extraction,0
+Tourism,multimodal systems,0
+Tourism,automated writing assistance,0
+Tourism,text simplification,0
+Tourism,author profiling,0
+Tourism,spam detection,0
+Tourism,virtual agents,0
+Sociology,temporal processing,0
+Sociology,automatic summarization,0
+Sociology,grammatical error correction,0
+Sociology,machine translation,0
+Sociology,natural-language understanding,0
+Sociology,natural-language generation,0
+Sociology,book generation,0
+Sociology,document AI,0
+Sociology,dialogue management,0
+Sociology,question answering,0
+Sociology,text-to-image generation,0
+Sociology,text-to-scene generation,0
+Sociology,text-to-video,0
+Sociology,information retrieval,0
+Sociology,information extraction,0
+Sociology,multimodal systems,0
+Sociology,automated writing assistance,0
+Sociology,text simplification,0
+Sociology,author profiling,0
+Sociology,spam detection,0
+Sociology,virtual agents,0
+Political Science,temporal processing,0
+Political Science,automatic summarization,0
+Political Science,grammatical error correction,0
+Political Science,machine translation,0
+Political Science,natural-language understanding,0
+Political Science,natural-language generation,0
+Political Science,book generation,0
+Political Science,document AI,0
+Political Science,dialogue management,0
+Political Science,question answering,0
+Political Science,text-to-image generation,0
+Political Science,text-to-scene generation,0
+Political Science,text-to-video,0
+Political Science,information retrieval,0
+Political Science,information extraction,0
+Political Science,multimodal systems,0
+Political Science,automated writing assistance,0
+Political Science,text simplification,0
+Political Science,author profiling,0
+Political Science,spam detection,0
+Political Science,virtual agents,0
+Geography,temporal processing,0
+Geography,automatic summarization,0
+Geography,grammatical error correction,0
+Geography,machine translation,0
+Geography,natural-language understanding,0
+Geography,natural-language generation,0
+Geography,book generation,0
+Geography,document AI,0
+Geography,dialogue management,0
+Geography,question answering,0
+Geography,text-to-image generation,0
+Geography,text-to-scene generation,0
+Geography,text-to-video,0
+Geography,information retrieval,0
+Geography,information extraction,0
+Geography,multimodal systems,0
+Geography,automated writing assistance,0
+Geography,text simplification,0
+Geography,author profiling,0
+Geography,spam detection,0
+Geography,virtual agents,0
+Archeology,temporal processing,0
+Archeology,automatic summarization,0
+Archeology,grammatical error correction,0
+Archeology,machine translation,0
+Archeology,natural-language understanding,0
+Archeology,natural-language generation,0
+Archeology,book generation,0
+Archeology,document AI,0
+Archeology,dialogue management,0
+Archeology,question answering,0
+Archeology,text-to-image generation,0
+Archeology,text-to-scene generation,0
+Archeology,text-to-video,0
+Archeology,information retrieval,0
+Archeology,information extraction,0
+Archeology,multimodal systems,0
+Archeology,automated writing assistance,0
+Archeology,text simplification,0
+Archeology,author profiling,0
+Archeology,spam detection,0
+Archeology,virtual agents,0
+Anthropology,temporal processing,0
+Anthropology,automatic summarization,0
+Anthropology,grammatical error correction,0
+Anthropology,machine translation,0
+Anthropology,natural-language understanding,0
+Anthropology,natural-language generation,0
+Anthropology,book generation,0
+Anthropology,document AI,0
+Anthropology,dialogue management,0
+Anthropology,question answering,0
+Anthropology,text-to-image generation,0
+Anthropology,text-to-scene generation,0
+Anthropology,text-to-video,0
+Anthropology,information retrieval,0
+Anthropology,information extraction,0
+Anthropology,multimodal systems,0
+Anthropology,automated writing assistance,0
+Anthropology,text simplification,0
+Anthropology,author profiling,0
+Anthropology,spam detection,0
+Anthropology,virtual agents,0
+Philology,temporal processing,0
+Philology,automatic summarization,0
+Philology,grammatical error correction,0
+Philology,machine translation,0
+Philology,natural-language understanding,0
+Philology,natural-language generation,0
+Philology,book generation,0
+Philology,document AI,0
+Philology,dialogue management,0
+Philology,question answering,0
+Philology,text-to-image generation,0
+Philology,text-to-scene generation,0
+Philology,text-to-video,0
+Philology,information retrieval,0
+Philology,information extraction,0
+Philology,multimodal systems,0
+Philology,automated writing assistance,0
+Philology,text simplification,0
+Philology,author profiling,0
+Philology,spam detection,0
+Philology,virtual agents,0
+Linguistics,temporal processing,0
+Linguistics,automatic summarization,0
+Linguistics,grammatical error correction,0
+Linguistics,machine translation,9
+Linguistics,natural-language understanding,1
+Linguistics,natural-language generation,0
+Linguistics,book generation,0
+Linguistics,document AI,0
+Linguistics,dialogue management,0
+Linguistics,question answering,0
+Linguistics,text-to-image generation,0
+Linguistics,text-to-scene generation,0
+Linguistics,text-to-video,0
+Linguistics,information retrieval,0
+Linguistics,information extraction,0
+Linguistics,multimodal systems,0
+Linguistics,automated writing assistance,0
+Linguistics,text simplification,0
+Linguistics,author profiling,1
+Linguistics,spam detection,0
+Linguistics,virtual agents,0
+Religion,temporal processing,0
+Religion,automatic summarization,0
+Religion,grammatical error correction,0
+Religion,machine translation,0
+Religion,natural-language understanding,0
+Religion,natural-language generation,0
+Religion,book generation,0
+Religion,document AI,0
+Religion,dialogue management,0
+Religion,question answering,0
+Religion,text-to-image generation,0
+Religion,text-to-scene generation,0
+Religion,text-to-video,0
+Religion,information retrieval,0
+Religion,information extraction,0
+Religion,multimodal systems,0
+Religion,automated writing assistance,0
+Religion,text simplification,0
+Religion,author profiling,0
+Religion,spam detection,0
+Religion,virtual agents,0
+Literature,temporal processing,0
+Literature,automatic summarization,0
+Literature,grammatical error correction,0
+Literature,machine translation,0
+Literature,natural-language understanding,0
+Literature,natural-language generation,0
+Literature,book generation,0
+Literature,document AI,0
+Literature,dialogue management,0
+Literature,question answering,0
+Literature,text-to-image generation,0
+Literature,text-to-scene generation,0
+Literature,text-to-video,0
+Literature,information retrieval,0
+Literature,information extraction,0
+Literature,multimodal systems,0
+Literature,automated writing assistance,0
+Literature,text simplification,0
+Literature,author profiling,0
+Literature,spam detection,0
+Literature,virtual agents,0
+Government,temporal processing,0
+Government,automatic summarization,0
+Government,grammatical error correction,0
+Government,machine translation,5
+Government,natural-language understanding,1
+Government,natural-language generation,0
+Government,book generation,0
+Government,document AI,0
+Government,dialogue management,0
+Government,question answering,0
+Government,text-to-image generation,0
+Government,text-to-scene generation,0
+Government,text-to-video,0
+Government,information retrieval,0
+Government,information extraction,0
+Government,multimodal systems,0
+Government,automated writing assistance,0
+Government,text simplification,0
+Government,author profiling,0
+Government,spam detection,0
+Government,virtual agents,0
+Law,temporal processing,0
+Law,automatic summarization,0
+Law,grammatical error correction,0
+Law,machine translation,3
+Law,natural-language understanding,0
+Law,natural-language generation,0
+Law,book generation,0
+Law,document AI,0
+Law,dialogue management,0
+Law,question answering,0
+Law,text-to-image generation,0
+Law,text-to-scene generation,0
+Law,text-to-video,0
+Law,information retrieval,0
+Law,information extraction,0
+Law,multimodal systems,0
+Law,automated writing assistance,0
+Law,text simplification,0
+Law,author profiling,0
+Law,spam detection,0
+Law,virtual agents,0
+Education,temporal processing,0
+Education,automatic summarization,0
+Education,grammatical error correction,0
+Education,machine translation,6
+Education,natural-language understanding,0
+Education,natural-language generation,0
+Education,book generation,0
+Education,document AI,0
+Education,dialogue management,0
+Education,question answering,0
+Education,text-to-image generation,0
+Education,text-to-scene generation,0
+Education,text-to-video,0
+Education,information retrieval,0
+Education,information extraction,0
+Education,multimodal systems,0
+Education,automated writing assistance,0
+Education,text simplification,3
+Education,author profiling,0
+Education,spam detection,0
+Education,virtual agents,0
+History,temporal processing,0
+History,automatic summarization,0
+History,grammatical error correction,0
+History,machine translation,1
+History,natural-language understanding,0
+History,natural-language generation,0
+History,book generation,0
+History,document AI,0
+History,dialogue management,0
+History,question answering,0
+History,text-to-image generation,0
+History,text-to-scene generation,0
+History,text-to-video,0
+History,information retrieval,0
+History,information extraction,0
+History,multimodal systems,0
+History,automated writing assistance,0
+History,text simplification,0
+History,author profiling,0
+History,spam detection,0
+History,virtual agents,0
+Philosophy,temporal processing,0
+Philosophy,automatic summarization,0
+Philosophy,grammatical error correction,0
+Philosophy,machine translation,0
+Philosophy,natural-language understanding,0
+Philosophy,natural-language generation,0
+Philosophy,book generation,0
+Philosophy,document AI,0
+Philosophy,dialogue management,0
+Philosophy,question answering,0
+Philosophy,text-to-image generation,0
+Philosophy,text-to-scene generation,0
+Philosophy,text-to-video,0
+Philosophy,information retrieval,0
+Philosophy,information extraction,0
+Philosophy,multimodal systems,0
+Philosophy,automated writing assistance,0
+Philosophy,text simplification,0
+Philosophy,author profiling,0
+Philosophy,spam detection,0
+Philosophy,virtual agents,0
+Ethics,temporal processing,0
+Ethics,automatic summarization,0
+Ethics,grammatical error correction,0
+Ethics,machine translation,0
+Ethics,natural-language understanding,0
+Ethics,natural-language generation,0
+Ethics,book generation,0
+Ethics,document AI,0
+Ethics,dialogue management,0
+Ethics,question answering,0
+Ethics,text-to-image generation,0
+Ethics,text-to-scene generation,0
+Ethics,text-to-video,0
+Ethics,information retrieval,0
+Ethics,information extraction,0
+Ethics,multimodal systems,0
+Ethics,automated writing assistance,0
+Ethics,text simplification,0
+Ethics,author profiling,0
+Ethics,spam detection,0
+Ethics,virtual agents,0
+Arts,temporal processing,0
+Arts,automatic summarization,0
+Arts,grammatical error correction,0
+Arts,machine translation,2
+Arts,natural-language understanding,0
+Arts,natural-language generation,0
+Arts,book generation,0
+Arts,document AI,0
+Arts,dialogue management,0
+Arts,question answering,0
+Arts,text-to-image generation,0
+Arts,text-to-scene generation,0
+Arts,text-to-video,0
+Arts,information retrieval,0
+Arts,information extraction,0
+Arts,multimodal systems,0
+Arts,automated writing assistance,0
+Arts,text simplification,0
+Arts,author profiling,0
+Arts,spam detection,0
+Arts,virtual agents,0
