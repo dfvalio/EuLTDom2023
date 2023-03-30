@@ -1,0 +1,2347 @@
+Domain,NLP Task,Value
+Mathematics,optical character recognition,0
+Mathematics,speech recognition,0
+Mathematics,speech segmentation,0
+Mathematics,text-to-speech,0
+Mathematics,word segmentation,0
+Mathematics,lemmatization,0
+Mathematics,morphological segmentation,0
+Mathematics,part-of-speech tagging,0
+Mathematics,stemming,0
+Mathematics,grammar induction,0
+Mathematics,sentence breaking ,0
+Mathematics,parsing,2
+Mathematics,lexical semantics,0
+Mathematics,distributional semantics,0
+Mathematics,named entity recognition,0
+Mathematics,sentiment analysis,0
+Mathematics,terminology extraction,0
+Mathematics,word-sense disambiguation,0
+Mathematics,entity linking,0
+Mathematics,multiword expressions,1
+Mathematics,relationship extraction,0
+Mathematics,semantic parsing,0
+Mathematics,semantic role labelling,0
+Mathematics,coreference resolution,0
+Mathematics,discourse analysis,0
+Mathematics,implicit semantic role labelling,0
+Mathematics,recognizing textual entailment,0
+Mathematics,topic segmentation,0
+Mathematics,argument mining,0
+Mathematics,anaphora resolution,0
+Computer science,optical character recognition,0
+Computer science,speech recognition,0
+Computer science,speech segmentation,0
+Computer science,text-to-speech,0
+Computer science,word segmentation,0
+Computer science,lemmatization,0
+Computer science,morphological segmentation,0
+Computer science,part-of-speech tagging,0
+Computer science,stemming,0
+Computer science,grammar induction,0
+Computer science,sentence breaking ,0
+Computer science,parsing,0
+Computer science,lexical semantics,0
+Computer science,distributional semantics,0
+Computer science,named entity recognition,0
+Computer science,sentiment analysis,1
+Computer science,terminology extraction,0
+Computer science,word-sense disambiguation,0
+Computer science,entity linking,0
+Computer science,multiword expressions,0
+Computer science,relationship extraction,0
+Computer science,semantic parsing,0
+Computer science,semantic role labelling,0
+Computer science,coreference resolution,0
+Computer science,discourse analysis,0
+Computer science,implicit semantic role labelling,0
+Computer science,recognizing textual entailment,0
+Computer science,topic segmentation,0
+Computer science,argument mining,0
+Computer science,anaphora resolution,0
+Physics,optical character recognition,1
+Physics,speech recognition,0
+Physics,speech segmentation,0
+Physics,text-to-speech,0
+Physics,word segmentation,1
+Physics,lemmatization,0
+Physics,morphological segmentation,0
+Physics,part-of-speech tagging,0
+Physics,stemming,1
+Physics,grammar induction,0
+Physics,sentence breaking ,0
+Physics,parsing,0
+Physics,lexical semantics,0
+Physics,distributional semantics,0
+Physics,named entity recognition,0
+Physics,sentiment analysis,0
+Physics,terminology extraction,0
+Physics,word-sense disambiguation,0
+Physics,entity linking,0
+Physics,multiword expressions,0
+Physics,relationship extraction,0
+Physics,semantic parsing,0
+Physics,semantic role labelling,0
+Physics,coreference resolution,0
+Physics,discourse analysis,0
+Physics,implicit semantic role labelling,0
+Physics,recognizing textual entailment,0
+Physics,topic segmentation,0
+Physics,argument mining,0
+Physics,anaphora resolution,0
+Chemistry,optical character recognition,0
+Chemistry,speech recognition,0
+Chemistry,speech segmentation,0
+Chemistry,text-to-speech,0
+Chemistry,word segmentation,0
+Chemistry,lemmatization,0
+Chemistry,morphological segmentation,0
+Chemistry,part-of-speech tagging,0
+Chemistry,stemming,0
+Chemistry,grammar induction,0
+Chemistry,sentence breaking ,0
+Chemistry,parsing,0
+Chemistry,lexical semantics,0
+Chemistry,distributional semantics,0
+Chemistry,named entity recognition,0
+Chemistry,sentiment analysis,0
+Chemistry,terminology extraction,0
+Chemistry,word-sense disambiguation,0
+Chemistry,entity linking,0
+Chemistry,multiword expressions,0
+Chemistry,relationship extraction,0
+Chemistry,semantic parsing,0
+Chemistry,semantic role labelling,0
+Chemistry,coreference resolution,0
+Chemistry,discourse analysis,0
+Chemistry,implicit semantic role labelling,0
+Chemistry,recognizing textual entailment,0
+Chemistry,topic segmentation,0
+Chemistry,argument mining,0
+Chemistry,anaphora resolution,0
+Environmental sciences,optical character recognition,0
+Environmental sciences,speech recognition,0
+Environmental sciences,speech segmentation,0
+Environmental sciences,text-to-speech,0
+Environmental sciences,word segmentation,0
+Environmental sciences,lemmatization,0
+Environmental sciences,morphological segmentation,0
+Environmental sciences,part-of-speech tagging,0
+Environmental sciences,stemming,0
+Environmental sciences,grammar induction,0
+Environmental sciences,sentence breaking ,0
+Environmental sciences,parsing,0
+Environmental sciences,lexical semantics,0
+Environmental sciences,distributional semantics,0
+Environmental sciences,named entity recognition,0
+Environmental sciences,sentiment analysis,0
+Environmental sciences,terminology extraction,0
+Environmental sciences,word-sense disambiguation,0
+Environmental sciences,entity linking,0
+Environmental sciences,multiword expressions,0
+Environmental sciences,relationship extraction,0
+Environmental sciences,semantic parsing,0
+Environmental sciences,semantic role labelling,0
+Environmental sciences,coreference resolution,0
+Environmental sciences,discourse analysis,0
+Environmental sciences,implicit semantic role labelling,0
+Environmental sciences,recognizing textual entailment,0
+Environmental sciences,topic segmentation,0
+Environmental sciences,argument mining,0
+Environmental sciences,anaphora resolution,0
+Biological sciences,optical character recognition,0
+Biological sciences,speech recognition,0
+Biological sciences,speech segmentation,0
+Biological sciences,text-to-speech,0
+Biological sciences,word segmentation,0
+Biological sciences,lemmatization,0
+Biological sciences,morphological segmentation,0
+Biological sciences,part-of-speech tagging,0
+Biological sciences,stemming,0
+Biological sciences,grammar induction,0
+Biological sciences,sentence breaking ,0
+Biological sciences,parsing,1
+Biological sciences,lexical semantics,0
+Biological sciences,distributional semantics,0
+Biological sciences,named entity recognition,0
+Biological sciences,sentiment analysis,0
+Biological sciences,terminology extraction,0
+Biological sciences,word-sense disambiguation,0
+Biological sciences,entity linking,0
+Biological sciences,multiword expressions,1
+Biological sciences,relationship extraction,0
+Biological sciences,semantic parsing,0
+Biological sciences,semantic role labelling,0
+Biological sciences,coreference resolution,0
+Biological sciences,discourse analysis,0
+Biological sciences,implicit semantic role labelling,0
+Biological sciences,recognizing textual entailment,0
+Biological sciences,topic segmentation,0
+Biological sciences,argument mining,0
+Biological sciences,anaphora resolution,0
+Civil engineering,optical character recognition,0
+Civil engineering,speech recognition,0
+Civil engineering,speech segmentation,0
+Civil engineering,text-to-speech,0
+Civil engineering,word segmentation,0
+Civil engineering,lemmatization,0
+Civil engineering,morphological segmentation,0
+Civil engineering,part-of-speech tagging,0
+Civil engineering,stemming,0
+Civil engineering,grammar induction,0
+Civil engineering,sentence breaking ,0
+Civil engineering,parsing,0
+Civil engineering,lexical semantics,0
+Civil engineering,distributional semantics,0
+Civil engineering,named entity recognition,0
+Civil engineering,sentiment analysis,0
+Civil engineering,terminology extraction,0
+Civil engineering,word-sense disambiguation,0
+Civil engineering,entity linking,0
+Civil engineering,multiword expressions,0
+Civil engineering,relationship extraction,0
+Civil engineering,semantic parsing,0
+Civil engineering,semantic role labelling,0
+Civil engineering,coreference resolution,0
+Civil engineering,discourse analysis,0
+Civil engineering,implicit semantic role labelling,0
+Civil engineering,recognizing textual entailment,0
+Civil engineering,topic segmentation,0
+Civil engineering,argument mining,0
+Civil engineering,anaphora resolution,0
+Electrical engineering,optical character recognition,0
+Electrical engineering,speech recognition,0
+Electrical engineering,speech segmentation,0
+Electrical engineering,text-to-speech,0
+Electrical engineering,word segmentation,0
+Electrical engineering,lemmatization,0
+Electrical engineering,morphological segmentation,0
+Electrical engineering,part-of-speech tagging,0
+Electrical engineering,stemming,0
+Electrical engineering,grammar induction,0
+Electrical engineering,sentence breaking ,0
+Electrical engineering,parsing,0
+Electrical engineering,lexical semantics,0
+Electrical engineering,distributional semantics,0
+Electrical engineering,named entity recognition,0
+Electrical engineering,sentiment analysis,0
+Electrical engineering,terminology extraction,0
+Electrical engineering,word-sense disambiguation,0
+Electrical engineering,entity linking,0
+Electrical engineering,multiword expressions,0
+Electrical engineering,relationship extraction,0
+Electrical engineering,semantic parsing,0
+Electrical engineering,semantic role labelling,0
+Electrical engineering,coreference resolution,0
+Electrical engineering,discourse analysis,0
+Electrical engineering,implicit semantic role labelling,0
+Electrical engineering,recognizing textual entailment,0
+Electrical engineering,topic segmentation,0
+Electrical engineering,argument mining,0
+Electrical engineering,anaphora resolution,0
+Electronic engineering,optical character recognition,0
+Electronic engineering,speech recognition,0
+Electronic engineering,speech segmentation,0
+Electronic engineering,text-to-speech,0
+Electronic engineering,word segmentation,0
+Electronic engineering,lemmatization,0
+Electronic engineering,morphological segmentation,0
+Electronic engineering,part-of-speech tagging,0
+Electronic engineering,stemming,0
+Electronic engineering,grammar induction,0
+Electronic engineering,sentence breaking ,0
+Electronic engineering,parsing,0
+Electronic engineering,lexical semantics,0
+Electronic engineering,distributional semantics,0
+Electronic engineering,named entity recognition,0
+Electronic engineering,sentiment analysis,0
+Electronic engineering,terminology extraction,0
+Electronic engineering,word-sense disambiguation,0
+Electronic engineering,entity linking,0
+Electronic engineering,multiword expressions,0
+Electronic engineering,relationship extraction,0
+Electronic engineering,semantic parsing,0
+Electronic engineering,semantic role labelling,0
+Electronic engineering,coreference resolution,0
+Electronic engineering,discourse analysis,0
+Electronic engineering,implicit semantic role labelling,0
+Electronic engineering,recognizing textual entailment,0
+Electronic engineering,topic segmentation,0
+Electronic engineering,argument mining,0
+Electronic engineering,anaphora resolution,0
+Information engineering,optical character recognition,0
+Information engineering,speech recognition,0
+Information engineering,speech segmentation,0
+Information engineering,text-to-speech,0
+Information engineering,word segmentation,0
+Information engineering,lemmatization,0
+Information engineering,morphological segmentation,0
+Information engineering,part-of-speech tagging,0
+Information engineering,stemming,0
+Information engineering,grammar induction,0
+Information engineering,sentence breaking ,0
+Information engineering,parsing,0
+Information engineering,lexical semantics,0
+Information engineering,distributional semantics,0
+Information engineering,named entity recognition,0
+Information engineering,sentiment analysis,0
+Information engineering,terminology extraction,0
+Information engineering,word-sense disambiguation,0
+Information engineering,entity linking,0
+Information engineering,multiword expressions,0
+Information engineering,relationship extraction,0
+Information engineering,semantic parsing,0
+Information engineering,semantic role labelling,0
+Information engineering,coreference resolution,0
+Information engineering,discourse analysis,0
+Information engineering,implicit semantic role labelling,0
+Information engineering,recognizing textual entailment,0
+Information engineering,topic segmentation,0
+Information engineering,argument mining,0
+Information engineering,anaphora resolution,0
+Mechanical engineering,optical character recognition,0
+Mechanical engineering,speech recognition,0
+Mechanical engineering,speech segmentation,0
+Mechanical engineering,text-to-speech,0
+Mechanical engineering,word segmentation,0
+Mechanical engineering,lemmatization,0
+Mechanical engineering,morphological segmentation,0
+Mechanical engineering,part-of-speech tagging,0
+Mechanical engineering,stemming,0
+Mechanical engineering,grammar induction,0
+Mechanical engineering,sentence breaking ,0
+Mechanical engineering,parsing,0
+Mechanical engineering,lexical semantics,0
+Mechanical engineering,distributional semantics,0
+Mechanical engineering,named entity recognition,0
+Mechanical engineering,sentiment analysis,0
+Mechanical engineering,terminology extraction,0
+Mechanical engineering,word-sense disambiguation,0
+Mechanical engineering,entity linking,0
+Mechanical engineering,multiword expressions,0
+Mechanical engineering,relationship extraction,0
+Mechanical engineering,semantic parsing,0
+Mechanical engineering,semantic role labelling,0
+Mechanical engineering,coreference resolution,0
+Mechanical engineering,discourse analysis,0
+Mechanical engineering,implicit semantic role labelling,0
+Mechanical engineering,recognizing textual entailment,0
+Mechanical engineering,topic segmentation,0
+Mechanical engineering,argument mining,0
+Mechanical engineering,anaphora resolution,0
+Chemical engineering,optical character recognition,0
+Chemical engineering,speech recognition,0
+Chemical engineering,speech segmentation,0
+Chemical engineering,text-to-speech,0
+Chemical engineering,word segmentation,0
+Chemical engineering,lemmatization,0
+Chemical engineering,morphological segmentation,0
+Chemical engineering,part-of-speech tagging,0
+Chemical engineering,stemming,0
+Chemical engineering,grammar induction,0
+Chemical engineering,sentence breaking ,0
+Chemical engineering,parsing,0
+Chemical engineering,lexical semantics,0
+Chemical engineering,distributional semantics,0
+Chemical engineering,named entity recognition,0
+Chemical engineering,sentiment analysis,0
+Chemical engineering,terminology extraction,0
+Chemical engineering,word-sense disambiguation,0
+Chemical engineering,entity linking,0
+Chemical engineering,multiword expressions,0
+Chemical engineering,relationship extraction,0
+Chemical engineering,semantic parsing,0
+Chemical engineering,semantic role labelling,0
+Chemical engineering,coreference resolution,0
+Chemical engineering,discourse analysis,0
+Chemical engineering,implicit semantic role labelling,0
+Chemical engineering,recognizing textual entailment,0
+Chemical engineering,topic segmentation,0
+Chemical engineering,argument mining,0
+Chemical engineering,anaphora resolution,0
+Materials engineering,optical character recognition,0
+Materials engineering,speech recognition,0
+Materials engineering,speech segmentation,0
+Materials engineering,text-to-speech,0
+Materials engineering,word segmentation,0
+Materials engineering,lemmatization,0
+Materials engineering,morphological segmentation,0
+Materials engineering,part-of-speech tagging,0
+Materials engineering,stemming,0
+Materials engineering,grammar induction,0
+Materials engineering,sentence breaking ,0
+Materials engineering,parsing,0
+Materials engineering,lexical semantics,0
+Materials engineering,distributional semantics,0
+Materials engineering,named entity recognition,0
+Materials engineering,sentiment analysis,0
+Materials engineering,terminology extraction,0
+Materials engineering,word-sense disambiguation,0
+Materials engineering,entity linking,0
+Materials engineering,multiword expressions,0
+Materials engineering,relationship extraction,0
+Materials engineering,semantic parsing,0
+Materials engineering,semantic role labelling,0
+Materials engineering,coreference resolution,0
+Materials engineering,discourse analysis,0
+Materials engineering,implicit semantic role labelling,0
+Materials engineering,recognizing textual entailment,0
+Materials engineering,topic segmentation,0
+Materials engineering,argument mining,0
+Materials engineering,anaphora resolution,0
+Medical engineering,optical character recognition,0
+Medical engineering,speech recognition,0
+Medical engineering,speech segmentation,0
+Medical engineering,text-to-speech,0
+Medical engineering,word segmentation,0
+Medical engineering,lemmatization,0
+Medical engineering,morphological segmentation,0
+Medical engineering,part-of-speech tagging,0
+Medical engineering,stemming,0
+Medical engineering,grammar induction,0
+Medical engineering,sentence breaking ,0
+Medical engineering,parsing,0
+Medical engineering,lexical semantics,0
+Medical engineering,distributional semantics,0
+Medical engineering,named entity recognition,0
+Medical engineering,sentiment analysis,0
+Medical engineering,terminology extraction,0
+Medical engineering,word-sense disambiguation,0
+Medical engineering,entity linking,0
+Medical engineering,multiword expressions,0
+Medical engineering,relationship extraction,0
+Medical engineering,semantic parsing,0
+Medical engineering,semantic role labelling,0
+Medical engineering,coreference resolution,0
+Medical engineering,discourse analysis,0
+Medical engineering,implicit semantic role labelling,0
+Medical engineering,recognizing textual entailment,0
+Medical engineering,topic segmentation,0
+Medical engineering,argument mining,0
+Medical engineering,anaphora resolution,0
+Environmental engineering,optical character recognition,0
+Environmental engineering,speech recognition,0
+Environmental engineering,speech segmentation,0
+Environmental engineering,text-to-speech,0
+Environmental engineering,word segmentation,0
+Environmental engineering,lemmatization,0
+Environmental engineering,morphological segmentation,0
+Environmental engineering,part-of-speech tagging,0
+Environmental engineering,stemming,0
+Environmental engineering,grammar induction,0
+Environmental engineering,sentence breaking ,0
+Environmental engineering,parsing,0
+Environmental engineering,lexical semantics,0
+Environmental engineering,distributional semantics,0
+Environmental engineering,named entity recognition,0
+Environmental engineering,sentiment analysis,0
+Environmental engineering,terminology extraction,0
+Environmental engineering,word-sense disambiguation,0
+Environmental engineering,entity linking,0
+Environmental engineering,multiword expressions,0
+Environmental engineering,relationship extraction,0
+Environmental engineering,semantic parsing,0
+Environmental engineering,semantic role labelling,0
+Environmental engineering,coreference resolution,0
+Environmental engineering,discourse analysis,0
+Environmental engineering,implicit semantic role labelling,0
+Environmental engineering,recognizing textual entailment,0
+Environmental engineering,topic segmentation,0
+Environmental engineering,argument mining,0
+Environmental engineering,anaphora resolution,0
+Environmental biotechnology,optical character recognition,0
+Environmental biotechnology,speech recognition,0
+Environmental biotechnology,speech segmentation,0
+Environmental biotechnology,text-to-speech,0
+Environmental biotechnology,word segmentation,0
+Environmental biotechnology,lemmatization,0
+Environmental biotechnology,morphological segmentation,0
+Environmental biotechnology,part-of-speech tagging,0
+Environmental biotechnology,stemming,0
+Environmental biotechnology,grammar induction,0
+Environmental biotechnology,sentence breaking ,0
+Environmental biotechnology,parsing,0
+Environmental biotechnology,lexical semantics,0
+Environmental biotechnology,distributional semantics,0
+Environmental biotechnology,named entity recognition,0
+Environmental biotechnology,sentiment analysis,0
+Environmental biotechnology,terminology extraction,0
+Environmental biotechnology,word-sense disambiguation,0
+Environmental biotechnology,entity linking,0
+Environmental biotechnology,multiword expressions,0
+Environmental biotechnology,relationship extraction,0
+Environmental biotechnology,semantic parsing,0
+Environmental biotechnology,semantic role labelling,0
+Environmental biotechnology,coreference resolution,0
+Environmental biotechnology,discourse analysis,0
+Environmental biotechnology,implicit semantic role labelling,0
+Environmental biotechnology,recognizing textual entailment,0
+Environmental biotechnology,topic segmentation,0
+Environmental biotechnology,argument mining,0
+Environmental biotechnology,anaphora resolution,0
+Industrial biotechnology,optical character recognition,0
+Industrial biotechnology,speech recognition,0
+Industrial biotechnology,speech segmentation,0
+Industrial biotechnology,text-to-speech,0
+Industrial biotechnology,word segmentation,0
+Industrial biotechnology,lemmatization,0
+Industrial biotechnology,morphological segmentation,0
+Industrial biotechnology,part-of-speech tagging,0
+Industrial biotechnology,stemming,0
+Industrial biotechnology,grammar induction,0
+Industrial biotechnology,sentence breaking ,0
+Industrial biotechnology,parsing,0
+Industrial biotechnology,lexical semantics,0
+Industrial biotechnology,distributional semantics,0
+Industrial biotechnology,named entity recognition,0
+Industrial biotechnology,sentiment analysis,0
+Industrial biotechnology,terminology extraction,0
+Industrial biotechnology,word-sense disambiguation,0
+Industrial biotechnology,entity linking,0
+Industrial biotechnology,multiword expressions,0
+Industrial biotechnology,relationship extraction,0
+Industrial biotechnology,semantic parsing,0
+Industrial biotechnology,semantic role labelling,0
+Industrial biotechnology,coreference resolution,0
+Industrial biotechnology,discourse analysis,0
+Industrial biotechnology,implicit semantic role labelling,0
+Industrial biotechnology,recognizing textual entailment,0
+Industrial biotechnology,topic segmentation,0
+Industrial biotechnology,argument mining,0
+Industrial biotechnology,anaphora resolution,0
+Nano-technology,optical character recognition,0
+Nano-technology,speech recognition,0
+Nano-technology,speech segmentation,0
+Nano-technology,text-to-speech,0
+Nano-technology,word segmentation,0
+Nano-technology,lemmatization,0
+Nano-technology,morphological segmentation,0
+Nano-technology,part-of-speech tagging,0
+Nano-technology,stemming,1
+Nano-technology,grammar induction,0
+Nano-technology,sentence breaking ,0
+Nano-technology,parsing,0
+Nano-technology,lexical semantics,0
+Nano-technology,distributional semantics,0
+Nano-technology,named entity recognition,0
+Nano-technology,sentiment analysis,0
+Nano-technology,terminology extraction,0
+Nano-technology,word-sense disambiguation,0
+Nano-technology,entity linking,0
+Nano-technology,multiword expressions,0
+Nano-technology,relationship extraction,0
+Nano-technology,semantic parsing,0
+Nano-technology,semantic role labelling,0
+Nano-technology,coreference resolution,0
+Nano-technology,discourse analysis,0
+Nano-technology,implicit semantic role labelling,0
+Nano-technology,recognizing textual entailment,0
+Nano-technology,topic segmentation,0
+Nano-technology,argument mining,0
+Nano-technology,anaphora resolution,0
+Agriculture,optical character recognition,0
+Agriculture,speech recognition,0
+Agriculture,speech segmentation,0
+Agriculture,text-to-speech,0
+Agriculture,word segmentation,0
+Agriculture,lemmatization,0
+Agriculture,morphological segmentation,0
+Agriculture,part-of-speech tagging,0
+Agriculture,stemming,0
+Agriculture,grammar induction,0
+Agriculture,sentence breaking ,0
+Agriculture,parsing,0
+Agriculture,lexical semantics,0
+Agriculture,distributional semantics,0
+Agriculture,named entity recognition,0
+Agriculture,sentiment analysis,0
+Agriculture,terminology extraction,0
+Agriculture,word-sense disambiguation,0
+Agriculture,entity linking,0
+Agriculture,multiword expressions,0
+Agriculture,relationship extraction,0
+Agriculture,semantic parsing,0
+Agriculture,semantic role labelling,0
+Agriculture,coreference resolution,0
+Agriculture,discourse analysis,0
+Agriculture,implicit semantic role labelling,0
+Agriculture,recognizing textual entailment,0
+Agriculture,topic segmentation,0
+Agriculture,argument mining,0
+Agriculture,anaphora resolution,0
+Forestry,optical character recognition,0
+Forestry,speech recognition,0
+Forestry,speech segmentation,0
+Forestry,text-to-speech,0
+Forestry,word segmentation,0
+Forestry,lemmatization,0
+Forestry,morphological segmentation,0
+Forestry,part-of-speech tagging,0
+Forestry,stemming,0
+Forestry,grammar induction,0
+Forestry,sentence breaking ,0
+Forestry,parsing,0
+Forestry,lexical semantics,0
+Forestry,distributional semantics,0
+Forestry,named entity recognition,0
+Forestry,sentiment analysis,0
+Forestry,terminology extraction,0
+Forestry,word-sense disambiguation,0
+Forestry,entity linking,0
+Forestry,multiword expressions,0
+Forestry,relationship extraction,0
+Forestry,semantic parsing,0
+Forestry,semantic role labelling,0
+Forestry,coreference resolution,0
+Forestry,discourse analysis,0
+Forestry,implicit semantic role labelling,0
+Forestry,recognizing textual entailment,0
+Forestry,topic segmentation,0
+Forestry,argument mining,0
+Forestry,anaphora resolution,0
+Fisheries,optical character recognition,0
+Fisheries,speech recognition,0
+Fisheries,speech segmentation,0
+Fisheries,text-to-speech,0
+Fisheries,word segmentation,0
+Fisheries,lemmatization,0
+Fisheries,morphological segmentation,0
+Fisheries,part-of-speech tagging,0
+Fisheries,stemming,0
+Fisheries,grammar induction,0
+Fisheries,sentence breaking ,0
+Fisheries,parsing,0
+Fisheries,lexical semantics,0
+Fisheries,distributional semantics,0
+Fisheries,named entity recognition,0
+Fisheries,sentiment analysis,0
+Fisheries,terminology extraction,0
+Fisheries,word-sense disambiguation,0
+Fisheries,entity linking,0
+Fisheries,multiword expressions,0
+Fisheries,relationship extraction,0
+Fisheries,semantic parsing,0
+Fisheries,semantic role labelling,0
+Fisheries,coreference resolution,0
+Fisheries,discourse analysis,0
+Fisheries,implicit semantic role labelling,0
+Fisheries,recognizing textual entailment,0
+Fisheries,topic segmentation,0
+Fisheries,argument mining,0
+Fisheries,anaphora resolution,0
+Animal and dairy science,optical character recognition,0
+Animal and dairy science,speech recognition,0
+Animal and dairy science,speech segmentation,0
+Animal and dairy science,text-to-speech,0
+Animal and dairy science,word segmentation,0
+Animal and dairy science,lemmatization,0
+Animal and dairy science,morphological segmentation,0
+Animal and dairy science,part-of-speech tagging,0
+Animal and dairy science,stemming,0
+Animal and dairy science,grammar induction,0
+Animal and dairy science,sentence breaking ,0
+Animal and dairy science,parsing,0
+Animal and dairy science,lexical semantics,0
+Animal and dairy science,distributional semantics,0
+Animal and dairy science,named entity recognition,0
+Animal and dairy science,sentiment analysis,0
+Animal and dairy science,terminology extraction,0
+Animal and dairy science,word-sense disambiguation,0
+Animal and dairy science,entity linking,0
+Animal and dairy science,multiword expressions,0
+Animal and dairy science,relationship extraction,0
+Animal and dairy science,semantic parsing,0
+Animal and dairy science,semantic role labelling,0
+Animal and dairy science,coreference resolution,0
+Animal and dairy science,discourse analysis,0
+Animal and dairy science,implicit semantic role labelling,0
+Animal and dairy science,recognizing textual entailment,0
+Animal and dairy science,topic segmentation,0
+Animal and dairy science,argument mining,0
+Animal and dairy science,anaphora resolution,0
+Veterenary,optical character recognition,0
+Veterenary,speech recognition,0
+Veterenary,speech segmentation,0
+Veterenary,text-to-speech,0
+Veterenary,word segmentation,0
+Veterenary,lemmatization,0
+Veterenary,morphological segmentation,0
+Veterenary,part-of-speech tagging,0
+Veterenary,stemming,0
+Veterenary,grammar induction,0
+Veterenary,sentence breaking ,0
+Veterenary,parsing,0
+Veterenary,lexical semantics,0
+Veterenary,distributional semantics,0
+Veterenary,named entity recognition,0
+Veterenary,sentiment analysis,0
+Veterenary,terminology extraction,0
+Veterenary,word-sense disambiguation,0
+Veterenary,entity linking,0
+Veterenary,multiword expressions,0
+Veterenary,relationship extraction,0
+Veterenary,semantic parsing,0
+Veterenary,semantic role labelling,0
+Veterenary,coreference resolution,0
+Veterenary,discourse analysis,0
+Veterenary,implicit semantic role labelling,0
+Veterenary,recognizing textual entailment,0
+Veterenary,topic segmentation,0
+Veterenary,argument mining,0
+Veterenary,anaphora resolution,0
+Agricultural biotechnology,optical character recognition,0
+Agricultural biotechnology,speech recognition,0
+Agricultural biotechnology,speech segmentation,0
+Agricultural biotechnology,text-to-speech,0
+Agricultural biotechnology,word segmentation,0
+Agricultural biotechnology,lemmatization,0
+Agricultural biotechnology,morphological segmentation,0
+Agricultural biotechnology,part-of-speech tagging,0
+Agricultural biotechnology,stemming,0
+Agricultural biotechnology,grammar induction,0
+Agricultural biotechnology,sentence breaking ,0
+Agricultural biotechnology,parsing,0
+Agricultural biotechnology,lexical semantics,0
+Agricultural biotechnology,distributional semantics,0
+Agricultural biotechnology,named entity recognition,0
+Agricultural biotechnology,sentiment analysis,0
+Agricultural biotechnology,terminology extraction,0
+Agricultural biotechnology,word-sense disambiguation,0
+Agricultural biotechnology,entity linking,0
+Agricultural biotechnology,multiword expressions,0
+Agricultural biotechnology,relationship extraction,0
+Agricultural biotechnology,semantic parsing,0
+Agricultural biotechnology,semantic role labelling,0
+Agricultural biotechnology,coreference resolution,0
+Agricultural biotechnology,discourse analysis,0
+Agricultural biotechnology,implicit semantic role labelling,0
+Agricultural biotechnology,recognizing textual entailment,0
+Agricultural biotechnology,topic segmentation,0
+Agricultural biotechnology,argument mining,0
+Agricultural biotechnology,anaphora resolution,0
+Psychology,optical character recognition,0
+Psychology,speech recognition,0
+Psychology,speech segmentation,0
+Psychology,text-to-speech,0
+Psychology,word segmentation,0
+Psychology,lemmatization,0
+Psychology,morphological segmentation,0
+Psychology,part-of-speech tagging,0
+Psychology,stemming,0
+Psychology,grammar induction,0
+Psychology,sentence breaking ,0
+Psychology,parsing,0
+Psychology,lexical semantics,0
+Psychology,distributional semantics,0
+Psychology,named entity recognition,0
+Psychology,sentiment analysis,0
+Psychology,terminology extraction,0
+Psychology,word-sense disambiguation,0
+Psychology,entity linking,0
+Psychology,multiword expressions,0
+Psychology,relationship extraction,0
+Psychology,semantic parsing,0
+Psychology,semantic role labelling,0
+Psychology,coreference resolution,0
+Psychology,discourse analysis,0
+Psychology,implicit semantic role labelling,0
+Psychology,recognizing textual entailment,0
+Psychology,topic segmentation,0
+Psychology,argument mining,0
+Psychology,anaphora resolution,0
+Cognitive sciences,optical character recognition,0
+Cognitive sciences,speech recognition,0
+Cognitive sciences,speech segmentation,0
+Cognitive sciences,text-to-speech,0
+Cognitive sciences,word segmentation,0
+Cognitive sciences,lemmatization,0
+Cognitive sciences,morphological segmentation,0
+Cognitive sciences,part-of-speech tagging,0
+Cognitive sciences,stemming,0
+Cognitive sciences,grammar induction,0
+Cognitive sciences,sentence breaking ,0
+Cognitive sciences,parsing,0
+Cognitive sciences,lexical semantics,0
+Cognitive sciences,distributional semantics,0
+Cognitive sciences,named entity recognition,0
+Cognitive sciences,sentiment analysis,0
+Cognitive sciences,terminology extraction,0
+Cognitive sciences,word-sense disambiguation,0
+Cognitive sciences,entity linking,0
+Cognitive sciences,multiword expressions,0
+Cognitive sciences,relationship extraction,0
+Cognitive sciences,semantic parsing,0
+Cognitive sciences,semantic role labelling,0
+Cognitive sciences,coreference resolution,0
+Cognitive sciences,discourse analysis,0
+Cognitive sciences,implicit semantic role labelling,0
+Cognitive sciences,recognizing textual entailment,0
+Cognitive sciences,topic segmentation,0
+Cognitive sciences,argument mining,0
+Cognitive sciences,anaphora resolution,0
+Economics,optical character recognition,0
+Economics,speech recognition,0
+Economics,speech segmentation,0
+Economics,text-to-speech,0
+Economics,word segmentation,0
+Economics,lemmatization,0
+Economics,morphological segmentation,0
+Economics,part-of-speech tagging,0
+Economics,stemming,0
+Economics,grammar induction,0
+Economics,sentence breaking ,0
+Economics,parsing,0
+Economics,lexical semantics,0
+Economics,distributional semantics,0
+Economics,named entity recognition,0
+Economics,sentiment analysis,1
+Economics,terminology extraction,0
+Economics,word-sense disambiguation,0
+Economics,entity linking,0
+Economics,multiword expressions,0
+Economics,relationship extraction,0
+Economics,semantic parsing,0
+Economics,semantic role labelling,0
+Economics,coreference resolution,0
+Economics,discourse analysis,0
+Economics,implicit semantic role labelling,0
+Economics,recognizing textual entailment,0
+Economics,topic segmentation,0
+Economics,argument mining,0
+Economics,anaphora resolution,0
+Business,optical character recognition,2
+Business,speech recognition,0
+Business,speech segmentation,0
+Business,text-to-speech,0
+Business,word segmentation,0
+Business,lemmatization,0
+Business,morphological segmentation,0
+Business,part-of-speech tagging,1
+Business,stemming,0
+Business,grammar induction,0
+Business,sentence breaking ,0
+Business,parsing,0
+Business,lexical semantics,0
+Business,distributional semantics,0
+Business,named entity recognition,0
+Business,sentiment analysis,2
+Business,terminology extraction,0
+Business,word-sense disambiguation,0
+Business,entity linking,1
+Business,multiword expressions,0
+Business,relationship extraction,0
+Business,semantic parsing,0
+Business,semantic role labelling,0
+Business,coreference resolution,0
+Business,discourse analysis,0
+Business,implicit semantic role labelling,0
+Business,recognizing textual entailment,0
+Business,topic segmentation,0
+Business,argument mining,0
+Business,anaphora resolution,0
+Finance,optical character recognition,0
+Finance,speech recognition,0
+Finance,speech segmentation,0
+Finance,text-to-speech,0
+Finance,word segmentation,1
+Finance,lemmatization,0
+Finance,morphological segmentation,0
+Finance,part-of-speech tagging,0
+Finance,stemming,0
+Finance,grammar induction,2
+Finance,sentence breaking ,0
+Finance,parsing,1
+Finance,lexical semantics,0
+Finance,distributional semantics,0
+Finance,named entity recognition,0
+Finance,sentiment analysis,0
+Finance,terminology extraction,0
+Finance,word-sense disambiguation,0
+Finance,entity linking,0
+Finance,multiword expressions,0
+Finance,relationship extraction,0
+Finance,semantic parsing,0
+Finance,semantic role labelling,0
+Finance,coreference resolution,0
+Finance,discourse analysis,0
+Finance,implicit semantic role labelling,0
+Finance,recognizing textual entailment,0
+Finance,topic segmentation,0
+Finance,argument mining,0
+Finance,anaphora resolution,0
+Tourism,optical character recognition,0
+Tourism,speech recognition,0
+Tourism,speech segmentation,0
+Tourism,text-to-speech,0
+Tourism,word segmentation,0
+Tourism,lemmatization,0
+Tourism,morphological segmentation,0
+Tourism,part-of-speech tagging,0
+Tourism,stemming,0
+Tourism,grammar induction,2
+Tourism,sentence breaking ,0
+Tourism,parsing,1
+Tourism,lexical semantics,0
+Tourism,distributional semantics,0
+Tourism,named entity recognition,0
+Tourism,sentiment analysis,0
+Tourism,terminology extraction,0
+Tourism,word-sense disambiguation,0
+Tourism,entity linking,0
+Tourism,multiword expressions,0
+Tourism,relationship extraction,0
+Tourism,semantic parsing,0
+Tourism,semantic role labelling,0
+Tourism,coreference resolution,0
+Tourism,discourse analysis,0
+Tourism,implicit semantic role labelling,0
+Tourism,recognizing textual entailment,0
+Tourism,topic segmentation,0
+Tourism,argument mining,0
+Tourism,anaphora resolution,0
+Sociology,optical character recognition,1
+Sociology,speech recognition,0
+Sociology,speech segmentation,0
+Sociology,text-to-speech,0
+Sociology,word segmentation,0
+Sociology,lemmatization,0
+Sociology,morphological segmentation,0
+Sociology,part-of-speech tagging,0
+Sociology,stemming,0
+Sociology,grammar induction,1
+Sociology,sentence breaking ,0
+Sociology,parsing,1
+Sociology,lexical semantics,0
+Sociology,distributional semantics,0
+Sociology,named entity recognition,1
+Sociology,sentiment analysis,2
+Sociology,terminology extraction,0
+Sociology,word-sense disambiguation,0
+Sociology,entity linking,0
+Sociology,multiword expressions,0
+Sociology,relationship extraction,0
+Sociology,semantic parsing,0
+Sociology,semantic role labelling,0
+Sociology,coreference resolution,0
+Sociology,discourse analysis,0
+Sociology,implicit semantic role labelling,0
+Sociology,recognizing textual entailment,0
+Sociology,topic segmentation,0
+Sociology,argument mining,0
+Sociology,anaphora resolution,0
+Political Science,optical character recognition,0
+Political Science,speech recognition,0
+Political Science,speech segmentation,0
+Political Science,text-to-speech,0
+Political Science,word segmentation,0
+Political Science,lemmatization,0
+Political Science,morphological segmentation,0
+Political Science,part-of-speech tagging,0
+Political Science,stemming,0
+Political Science,grammar induction,0
+Political Science,sentence breaking ,0
+Political Science,parsing,0
+Political Science,lexical semantics,0
+Political Science,distributional semantics,0
+Political Science,named entity recognition,0
+Political Science,sentiment analysis,0
+Political Science,terminology extraction,0
+Political Science,word-sense disambiguation,0
+Political Science,entity linking,0
+Political Science,multiword expressions,0
+Political Science,relationship extraction,0
+Political Science,semantic parsing,0
+Political Science,semantic role labelling,0
+Political Science,coreference resolution,0
+Political Science,discourse analysis,0
+Political Science,implicit semantic role labelling,0
+Political Science,recognizing textual entailment,0
+Political Science,topic segmentation,0
+Political Science,argument mining,0
+Political Science,anaphora resolution,0
+Geography,optical character recognition,0
+Geography,speech recognition,0
+Geography,speech segmentation,0
+Geography,text-to-speech,0
+Geography,word segmentation,0
+Geography,lemmatization,0
+Geography,morphological segmentation,0
+Geography,part-of-speech tagging,0
+Geography,stemming,0
+Geography,grammar induction,0
+Geography,sentence breaking ,0
+Geography,parsing,0
+Geography,lexical semantics,0
+Geography,distributional semantics,0
+Geography,named entity recognition,0
+Geography,sentiment analysis,0
+Geography,terminology extraction,0
+Geography,word-sense disambiguation,0
+Geography,entity linking,0
+Geography,multiword expressions,0
+Geography,relationship extraction,0
+Geography,semantic parsing,0
+Geography,semantic role labelling,0
+Geography,coreference resolution,0
+Geography,discourse analysis,0
+Geography,implicit semantic role labelling,0
+Geography,recognizing textual entailment,0
+Geography,topic segmentation,0
+Geography,argument mining,0
+Geography,anaphora resolution,0
+Archeology,optical character recognition,0
+Archeology,speech recognition,0
+Archeology,speech segmentation,0
+Archeology,text-to-speech,0
+Archeology,word segmentation,0
+Archeology,lemmatization,0
+Archeology,morphological segmentation,0
+Archeology,part-of-speech tagging,0
+Archeology,stemming,0
+Archeology,grammar induction,0
+Archeology,sentence breaking ,0
+Archeology,parsing,0
+Archeology,lexical semantics,0
+Archeology,distributional semantics,0
+Archeology,named entity recognition,0
+Archeology,sentiment analysis,0
+Archeology,terminology extraction,0
+Archeology,word-sense disambiguation,0
+Archeology,entity linking,0
+Archeology,multiword expressions,0
+Archeology,relationship extraction,0
+Archeology,semantic parsing,0
+Archeology,semantic role labelling,0
+Archeology,coreference resolution,0
+Archeology,discourse analysis,0
+Archeology,implicit semantic role labelling,0
+Archeology,recognizing textual entailment,0
+Archeology,topic segmentation,0
+Archeology,argument mining,0
+Archeology,anaphora resolution,0
+Anthropology,optical character recognition,0
+Anthropology,speech recognition,0
+Anthropology,speech segmentation,0
+Anthropology,text-to-speech,0
+Anthropology,word segmentation,0
+Anthropology,lemmatization,0
+Anthropology,morphological segmentation,0
+Anthropology,part-of-speech tagging,0
+Anthropology,stemming,0
+Anthropology,grammar induction,0
+Anthropology,sentence breaking ,0
+Anthropology,parsing,0
+Anthropology,lexical semantics,0
+Anthropology,distributional semantics,0
+Anthropology,named entity recognition,0
+Anthropology,sentiment analysis,0
+Anthropology,terminology extraction,0
+Anthropology,word-sense disambiguation,0
+Anthropology,entity linking,0
+Anthropology,multiword expressions,0
+Anthropology,relationship extraction,0
+Anthropology,semantic parsing,0
+Anthropology,semantic role labelling,0
+Anthropology,coreference resolution,0
+Anthropology,discourse analysis,0
+Anthropology,implicit semantic role labelling,0
+Anthropology,recognizing textual entailment,0
+Anthropology,topic segmentation,0
+Anthropology,argument mining,0
+Anthropology,anaphora resolution,0
+Philology,optical character recognition,0
+Philology,speech recognition,0
+Philology,speech segmentation,0
+Philology,text-to-speech,0
+Philology,word segmentation,2
+Philology,lemmatization,1
+Philology,morphological segmentation,0
+Philology,part-of-speech tagging,1
+Philology,stemming,0
+Philology,grammar induction,0
+Philology,sentence breaking ,0
+Philology,parsing,1
+Philology,lexical semantics,0
+Philology,distributional semantics,0
+Philology,named entity recognition,0
+Philology,sentiment analysis,0
+Philology,terminology extraction,0
+Philology,word-sense disambiguation,0
+Philology,entity linking,0
+Philology,multiword expressions,0
+Philology,relationship extraction,0
+Philology,semantic parsing,0
+Philology,semantic role labelling,0
+Philology,coreference resolution,0
+Philology,discourse analysis,0
+Philology,implicit semantic role labelling,0
+Philology,recognizing textual entailment,0
+Philology,topic segmentation,0
+Philology,argument mining,0
+Philology,anaphora resolution,0
+Linguistics,optical character recognition,3
+Linguistics,speech recognition,3
+Linguistics,speech segmentation,0
+Linguistics,text-to-speech,1
+Linguistics,word segmentation,7
+Linguistics,lemmatization,5
+Linguistics,morphological segmentation,1
+Linguistics,part-of-speech tagging,7
+Linguistics,stemming,1
+Linguistics,grammar induction,1
+Linguistics,sentence breaking ,0
+Linguistics,parsing,9
+Linguistics,lexical semantics,0
+Linguistics,distributional semantics,0
+Linguistics,named entity recognition,2
+Linguistics,sentiment analysis,5
+Linguistics,terminology extraction,0
+Linguistics,word-sense disambiguation,1
+Linguistics,entity linking,0
+Linguistics,multiword expressions,1
+Linguistics,relationship extraction,0
+Linguistics,semantic parsing,0
+Linguistics,semantic role labelling,0
+Linguistics,coreference resolution,0
+Linguistics,discourse analysis,0
+Linguistics,implicit semantic role labelling,0
+Linguistics,recognizing textual entailment,0
+Linguistics,topic segmentation,1
+Linguistics,argument mining,0
+Linguistics,anaphora resolution,0
+Religion,optical character recognition,2
+Religion,speech recognition,0
+Religion,speech segmentation,0
+Religion,text-to-speech,0
+Religion,word segmentation,3
+Religion,lemmatization,3
+Religion,morphological segmentation,0
+Religion,part-of-speech tagging,1
+Religion,stemming,0
+Religion,grammar induction,0
+Religion,sentence breaking ,0
+Religion,parsing,4
+Religion,lexical semantics,0
+Religion,distributional semantics,0
+Religion,named entity recognition,1
+Religion,sentiment analysis,1
+Religion,terminology extraction,0
+Religion,word-sense disambiguation,0
+Religion,entity linking,1
+Religion,multiword expressions,0
+Religion,relationship extraction,0
+Religion,semantic parsing,0
+Religion,semantic role labelling,0
+Religion,coreference resolution,0
+Religion,discourse analysis,0
+Religion,implicit semantic role labelling,0
+Religion,recognizing textual entailment,0
+Religion,topic segmentation,0
+Religion,argument mining,0
+Religion,anaphora resolution,0
+Literature,optical character recognition,2
+Literature,speech recognition,0
+Literature,speech segmentation,0
+Literature,text-to-speech,0
+Literature,word segmentation,4
+Literature,lemmatization,2
+Literature,morphological segmentation,0
+Literature,part-of-speech tagging,3
+Literature,stemming,0
+Literature,grammar induction,0
+Literature,sentence breaking ,0
+Literature,parsing,8
+Literature,lexical semantics,0
+Literature,distributional semantics,0
+Literature,named entity recognition,0
+Literature,sentiment analysis,1
+Literature,terminology extraction,0
+Literature,word-sense disambiguation,0
+Literature,entity linking,0
+Literature,multiword expressions,0
+Literature,relationship extraction,0
+Literature,semantic parsing,0
+Literature,semantic role labelling,0
+Literature,coreference resolution,1
+Literature,discourse analysis,0
+Literature,implicit semantic role labelling,0
+Literature,recognizing textual entailment,0
+Literature,topic segmentation,1
+Literature,argument mining,0
+Literature,anaphora resolution,0
+Government,optical character recognition,0
+Government,speech recognition,0
+Government,speech segmentation,0
+Government,text-to-speech,0
+Government,word segmentation,2
+Government,lemmatization,1
+Government,morphological segmentation,0
+Government,part-of-speech tagging,2
+Government,stemming,1
+Government,grammar induction,0
+Government,sentence breaking ,0
+Government,parsing,1
+Government,lexical semantics,0
+Government,distributional semantics,0
+Government,named entity recognition,0
+Government,sentiment analysis,0
+Government,terminology extraction,0
+Government,word-sense disambiguation,0
+Government,entity linking,0
+Government,multiword expressions,0
+Government,relationship extraction,0
+Government,semantic parsing,0
+Government,semantic role labelling,0
+Government,coreference resolution,0
+Government,discourse analysis,0
+Government,implicit semantic role labelling,0
+Government,recognizing textual entailment,0
+Government,topic segmentation,0
+Government,argument mining,0
+Government,anaphora resolution,0
+Law,optical character recognition,2
+Law,speech recognition,0
+Law,speech segmentation,0
+Law,text-to-speech,0
+Law,word segmentation,0
+Law,lemmatization,0
+Law,morphological segmentation,0
+Law,part-of-speech tagging,0
+Law,stemming,0
+Law,grammar induction,0
+Law,sentence breaking ,0
+Law,parsing,2
+Law,lexical semantics,0
+Law,distributional semantics,0
+Law,named entity recognition,0
+Law,sentiment analysis,0
+Law,terminology extraction,0
+Law,word-sense disambiguation,0
+Law,entity linking,0
+Law,multiword expressions,1
+Law,relationship extraction,0
+Law,semantic parsing,0
+Law,semantic role labelling,0
+Law,coreference resolution,0
+Law,discourse analysis,0
+Law,implicit semantic role labelling,0
+Law,recognizing textual entailment,0
+Law,topic segmentation,0
+Law,argument mining,2
+Law,anaphora resolution,0
+Education,optical character recognition,1
+Education,speech recognition,0
+Education,speech segmentation,0
+Education,text-to-speech,0
+Education,word segmentation,0
+Education,lemmatization,0
+Education,morphological segmentation,0
+Education,part-of-speech tagging,2
+Education,stemming,1
+Education,grammar induction,0
+Education,sentence breaking ,0
+Education,parsing,1
+Education,lexical semantics,0
+Education,distributional semantics,0
+Education,named entity recognition,1
+Education,sentiment analysis,3
+Education,terminology extraction,0
+Education,word-sense disambiguation,0
+Education,entity linking,0
+Education,multiword expressions,0
+Education,relationship extraction,0
+Education,semantic parsing,0
+Education,semantic role labelling,0
+Education,coreference resolution,0
+Education,discourse analysis,0
+Education,implicit semantic role labelling,0
+Education,recognizing textual entailment,0
+Education,topic segmentation,0
+Education,argument mining,0
+Education,anaphora resolution,0
+History,optical character recognition,2
+History,speech recognition,0
+History,speech segmentation,0
+History,text-to-speech,0
+History,word segmentation,4
+History,lemmatization,5
+History,morphological segmentation,0
+History,part-of-speech tagging,1
+History,stemming,0
+History,grammar induction,0
+History,sentence breaking ,0
+History,parsing,4
+History,lexical semantics,0
+History,distributional semantics,0
+History,named entity recognition,1
+History,sentiment analysis,1
+History,terminology extraction,0
+History,word-sense disambiguation,0
+History,entity linking,1
+History,multiword expressions,0
+History,relationship extraction,0
+History,semantic parsing,0
+History,semantic role labelling,0
+History,coreference resolution,0
+History,discourse analysis,0
+History,implicit semantic role labelling,0
+History,recognizing textual entailment,0
+History,topic segmentation,0
+History,argument mining,0
+History,anaphora resolution,0
+Philosophy,optical character recognition,0
+Philosophy,speech recognition,0
+Philosophy,speech segmentation,0
+Philosophy,text-to-speech,0
+Philosophy,word segmentation,1
+Philosophy,lemmatization,0
+Philosophy,morphological segmentation,0
+Philosophy,part-of-speech tagging,0
+Philosophy,stemming,0
+Philosophy,grammar induction,0
+Philosophy,sentence breaking ,0
+Philosophy,parsing,1
+Philosophy,lexical semantics,0
+Philosophy,distributional semantics,0
+Philosophy,named entity recognition,0
+Philosophy,sentiment analysis,1
+Philosophy,terminology extraction,0
+Philosophy,word-sense disambiguation,0
+Philosophy,entity linking,0
+Philosophy,multiword expressions,0
+Philosophy,relationship extraction,0
+Philosophy,semantic parsing,0
+Philosophy,semantic role labelling,0
+Philosophy,coreference resolution,0
+Philosophy,discourse analysis,0
+Philosophy,implicit semantic role labelling,0
+Philosophy,recognizing textual entailment,0
+Philosophy,topic segmentation,0
+Philosophy,argument mining,0
+Philosophy,anaphora resolution,0
+Ethics,optical character recognition,0
+Ethics,speech recognition,0
+Ethics,speech segmentation,0
+Ethics,text-to-speech,0
+Ethics,word segmentation,0
+Ethics,lemmatization,0
+Ethics,morphological segmentation,0
+Ethics,part-of-speech tagging,0
+Ethics,stemming,0
+Ethics,grammar induction,0
+Ethics,sentence breaking ,0
+Ethics,parsing,0
+Ethics,lexical semantics,0
+Ethics,distributional semantics,0
+Ethics,named entity recognition,0
+Ethics,sentiment analysis,0
+Ethics,terminology extraction,0
+Ethics,word-sense disambiguation,0
+Ethics,entity linking,0
+Ethics,multiword expressions,0
+Ethics,relationship extraction,0
+Ethics,semantic parsing,0
+Ethics,semantic role labelling,0
+Ethics,coreference resolution,0
+Ethics,discourse analysis,0
+Ethics,implicit semantic role labelling,0
+Ethics,recognizing textual entailment,0
+Ethics,topic segmentation,0
+Ethics,argument mining,0
+Ethics,anaphora resolution,0
+Arts,optical character recognition,0
+Arts,speech recognition,0
+Arts,speech segmentation,0
+Arts,text-to-speech,0
+Arts,word segmentation,0
+Arts,lemmatization,0
+Arts,morphological segmentation,0
+Arts,part-of-speech tagging,0
+Arts,stemming,0
+Arts,grammar induction,0
+Arts,sentence breaking ,0
+Arts,parsing,0
+Arts,lexical semantics,0
+Arts,distributional semantics,0
+Arts,named entity recognition,0
+Arts,sentiment analysis,0
+Arts,terminology extraction,0
+Arts,word-sense disambiguation,0
+Arts,entity linking,1
+Arts,multiword expressions,0
+Arts,relationship extraction,0
+Arts,semantic parsing,0
+Arts,semantic role labelling,0
+Arts,coreference resolution,0
+Arts,discourse analysis,0
+Arts,implicit semantic role labelling,0
+Arts,recognizing textual entailment,0
+Arts,topic segmentation,0
+Arts,argument mining,0
+Arts,anaphora resolution,0
+Mathematics,temporal processing,0
+Mathematics,automatic summarization,0
+Mathematics,grammatical error correction,0
+Mathematics,machine translation,2
+Mathematics,natural-language understanding,1
+Mathematics,natural-language generation,0
+Mathematics,book generation,0
+Mathematics,document AI,0
+Mathematics,dialogue management,0
+Mathematics,question answering,1
+Mathematics,text-to-image generation,0
+Mathematics,text-to-scene generation,0
+Mathematics,text-to-video,0
+Mathematics,information retrieval,0
+Mathematics,information extraction,0
+Mathematics,multimodal systems,0
+Mathematics,automated writing assistance,0
+Mathematics,text simplification,0
+Mathematics,author profiling,0
+Mathematics,spam detection,0
+Mathematics,virtual agents,0
+Computer science,temporal processing,0
+Computer science,automatic summarization,0
+Computer science,grammatical error correction,0
+Computer science,machine translation,3
+Computer science,natural-language understanding,0
+Computer science,natural-language generation,0
+Computer science,book generation,0
+Computer science,document AI,0
+Computer science,dialogue management,0
+Computer science,question answering,0
+Computer science,text-to-image generation,0
+Computer science,text-to-scene generation,0
+Computer science,text-to-video,0
+Computer science,information retrieval,0
+Computer science,information extraction,0
+Computer science,multimodal systems,0
+Computer science,automated writing assistance,0
+Computer science,text simplification,0
+Computer science,author profiling,0
+Computer science,spam detection,0
+Computer science,virtual agents,0
+Physics,temporal processing,0
+Physics,automatic summarization,0
+Physics,grammatical error correction,0
+Physics,machine translation,2
+Physics,natural-language understanding,0
+Physics,natural-language generation,0
+Physics,book generation,0
+Physics,document AI,0
+Physics,dialogue management,0
+Physics,question answering,0
+Physics,text-to-image generation,0
+Physics,text-to-scene generation,0
+Physics,text-to-video,0
+Physics,information retrieval,1
+Physics,information extraction,0
+Physics,multimodal systems,0
+Physics,automated writing assistance,0
+Physics,text simplification,0
+Physics,author profiling,0
+Physics,spam detection,0
+Physics,virtual agents,0
+Chemistry,temporal processing,0
+Chemistry,automatic summarization,0
+Chemistry,grammatical error correction,0
+Chemistry,machine translation,1
+Chemistry,natural-language understanding,0
+Chemistry,natural-language generation,0
+Chemistry,book generation,0
+Chemistry,document AI,0
+Chemistry,dialogue management,0
+Chemistry,question answering,0
+Chemistry,text-to-image generation,0
+Chemistry,text-to-scene generation,0
+Chemistry,text-to-video,0
+Chemistry,information retrieval,0
+Chemistry,information extraction,0
+Chemistry,multimodal systems,0
+Chemistry,automated writing assistance,0
+Chemistry,text simplification,0
+Chemistry,author profiling,0
+Chemistry,spam detection,0
+Chemistry,virtual agents,0
+Environmental sciences,temporal processing,0
+Environmental sciences,automatic summarization,0
+Environmental sciences,grammatical error correction,0
+Environmental sciences,machine translation,0
+Environmental sciences,natural-language understanding,0
+Environmental sciences,natural-language generation,0
+Environmental sciences,book generation,0
+Environmental sciences,document AI,0
+Environmental sciences,dialogue management,0
+Environmental sciences,question answering,0
+Environmental sciences,text-to-image generation,0
+Environmental sciences,text-to-scene generation,0
+Environmental sciences,text-to-video,0
+Environmental sciences,information retrieval,0
+Environmental sciences,information extraction,0
+Environmental sciences,multimodal systems,0
+Environmental sciences,automated writing assistance,0
+Environmental sciences,text simplification,0
+Environmental sciences,author profiling,0
+Environmental sciences,spam detection,0
+Environmental sciences,virtual agents,0
+Biological sciences,temporal processing,0
+Biological sciences,automatic summarization,0
+Biological sciences,grammatical error correction,0
+Biological sciences,machine translation,3
+Biological sciences,natural-language understanding,1
+Biological sciences,natural-language generation,0
+Biological sciences,book generation,0
+Biological sciences,document AI,0
+Biological sciences,dialogue management,0
+Biological sciences,question answering,1
+Biological sciences,text-to-image generation,0
+Biological sciences,text-to-scene generation,0
+Biological sciences,text-to-video,0
+Biological sciences,information retrieval,0
+Biological sciences,information extraction,0
+Biological sciences,multimodal systems,0
+Biological sciences,automated writing assistance,0
+Biological sciences,text simplification,0
+Biological sciences,author profiling,0
+Biological sciences,spam detection,0
+Biological sciences,virtual agents,0
+Civil engineering,temporal processing,0
+Civil engineering,automatic summarization,0
+Civil engineering,grammatical error correction,0
+Civil engineering,machine translation,0
+Civil engineering,natural-language understanding,0
+Civil engineering,natural-language generation,0
+Civil engineering,book generation,0
+Civil engineering,document AI,0
+Civil engineering,dialogue management,0
+Civil engineering,question answering,0
+Civil engineering,text-to-image generation,0
+Civil engineering,text-to-scene generation,0
+Civil engineering,text-to-video,0
+Civil engineering,information retrieval,0
+Civil engineering,information extraction,0
+Civil engineering,multimodal systems,0
+Civil engineering,automated writing assistance,0
+Civil engineering,text simplification,0
+Civil engineering,author profiling,0
+Civil engineering,spam detection,0
+Civil engineering,virtual agents,0
+Electrical engineering,temporal processing,0
+Electrical engineering,automatic summarization,0
+Electrical engineering,grammatical error correction,0
+Electrical engineering,machine translation,0
+Electrical engineering,natural-language understanding,0
+Electrical engineering,natural-language generation,0
+Electrical engineering,book generation,0
+Electrical engineering,document AI,0
+Electrical engineering,dialogue management,0
+Electrical engineering,question answering,0
+Electrical engineering,text-to-image generation,0
+Electrical engineering,text-to-scene generation,0
+Electrical engineering,text-to-video,0
+Electrical engineering,information retrieval,0
+Electrical engineering,information extraction,0
+Electrical engineering,multimodal systems,0
+Electrical engineering,automated writing assistance,0
+Electrical engineering,text simplification,0
+Electrical engineering,author profiling,0
+Electrical engineering,spam detection,0
+Electrical engineering,virtual agents,0
+Electronic engineering,temporal processing,0
+Electronic engineering,automatic summarization,0
+Electronic engineering,grammatical error correction,0
+Electronic engineering,machine translation,0
+Electronic engineering,natural-language understanding,0
+Electronic engineering,natural-language generation,0
+Electronic engineering,book generation,0
+Electronic engineering,document AI,0
+Electronic engineering,dialogue management,0
+Electronic engineering,question answering,0
+Electronic engineering,text-to-image generation,0
+Electronic engineering,text-to-scene generation,0
+Electronic engineering,text-to-video,0
+Electronic engineering,information retrieval,0
+Electronic engineering,information extraction,0
+Electronic engineering,multimodal systems,0
+Electronic engineering,automated writing assistance,0
+Electronic engineering,text simplification,0
+Electronic engineering,author profiling,0
+Electronic engineering,spam detection,0
+Electronic engineering,virtual agents,0
+Information engineering,temporal processing,0
+Information engineering,automatic summarization,0
+Information engineering,grammatical error correction,0
+Information engineering,machine translation,0
+Information engineering,natural-language understanding,0
+Information engineering,natural-language generation,0
+Information engineering,book generation,0
+Information engineering,document AI,0
+Information engineering,dialogue management,0
+Information engineering,question answering,0
+Information engineering,text-to-image generation,0
+Information engineering,text-to-scene generation,0
+Information engineering,text-to-video,0
+Information engineering,information retrieval,0
+Information engineering,information extraction,0
+Information engineering,multimodal systems,0
+Information engineering,automated writing assistance,0
+Information engineering,text simplification,0
+Information engineering,author profiling,0
+Information engineering,spam detection,0
+Information engineering,virtual agents,0
+Mechanical engineering,temporal processing,0
+Mechanical engineering,automatic summarization,0
+Mechanical engineering,grammatical error correction,0
+Mechanical engineering,machine translation,0
+Mechanical engineering,natural-language understanding,0
+Mechanical engineering,natural-language generation,0
+Mechanical engineering,book generation,0
+Mechanical engineering,document AI,0
+Mechanical engineering,dialogue management,0
+Mechanical engineering,question answering,0
+Mechanical engineering,text-to-image generation,0
+Mechanical engineering,text-to-scene generation,0
+Mechanical engineering,text-to-video,0
+Mechanical engineering,information retrieval,0
+Mechanical engineering,information extraction,0
+Mechanical engineering,multimodal systems,0
+Mechanical engineering,automated writing assistance,0
+Mechanical engineering,text simplification,0
+Mechanical engineering,author profiling,0
+Mechanical engineering,spam detection,0
+Mechanical engineering,virtual agents,0
+Chemical engineering,temporal processing,0
+Chemical engineering,automatic summarization,0
+Chemical engineering,grammatical error correction,0
+Chemical engineering,machine translation,0
+Chemical engineering,natural-language understanding,0
+Chemical engineering,natural-language generation,0
+Chemical engineering,book generation,0
+Chemical engineering,document AI,0
+Chemical engineering,dialogue management,0
+Chemical engineering,question answering,0
+Chemical engineering,text-to-image generation,0
+Chemical engineering,text-to-scene generation,0
+Chemical engineering,text-to-video,0
+Chemical engineering,information retrieval,0
+Chemical engineering,information extraction,0
+Chemical engineering,multimodal systems,0
+Chemical engineering,automated writing assistance,0
+Chemical engineering,text simplification,0
+Chemical engineering,author profiling,0
+Chemical engineering,spam detection,0
+Chemical engineering,virtual agents,0
+Materials engineering,temporal processing,0
+Materials engineering,automatic summarization,0
+Materials engineering,grammatical error correction,0
+Materials engineering,machine translation,0
+Materials engineering,natural-language understanding,0
+Materials engineering,natural-language generation,0
+Materials engineering,book generation,0
+Materials engineering,document AI,0
+Materials engineering,dialogue management,0
+Materials engineering,question answering,0
+Materials engineering,text-to-image generation,0
+Materials engineering,text-to-scene generation,0
+Materials engineering,text-to-video,0
+Materials engineering,information retrieval,0
+Materials engineering,information extraction,0
+Materials engineering,multimodal systems,0
+Materials engineering,automated writing assistance,0
+Materials engineering,text simplification,0
+Materials engineering,author profiling,0
+Materials engineering,spam detection,0
+Materials engineering,virtual agents,0
+Medical engineering,temporal processing,0
+Medical engineering,automatic summarization,0
+Medical engineering,grammatical error correction,0
+Medical engineering,machine translation,0
+Medical engineering,natural-language understanding,0
+Medical engineering,natural-language generation,0
+Medical engineering,book generation,0
+Medical engineering,document AI,0
+Medical engineering,dialogue management,0
+Medical engineering,question answering,0
+Medical engineering,text-to-image generation,0
+Medical engineering,text-to-scene generation,0
+Medical engineering,text-to-video,0
+Medical engineering,information retrieval,0
+Medical engineering,information extraction,0
+Medical engineering,multimodal systems,0
+Medical engineering,automated writing assistance,0
+Medical engineering,text simplification,0
+Medical engineering,author profiling,0
+Medical engineering,spam detection,0
+Medical engineering,virtual agents,0
+Environmental engineering,temporal processing,0
+Environmental engineering,automatic summarization,0
+Environmental engineering,grammatical error correction,0
+Environmental engineering,machine translation,0
+Environmental engineering,natural-language understanding,0
+Environmental engineering,natural-language generation,0
+Environmental engineering,book generation,0
+Environmental engineering,document AI,0
+Environmental engineering,dialogue management,0
+Environmental engineering,question answering,0
+Environmental engineering,text-to-image generation,0
+Environmental engineering,text-to-scene generation,0
+Environmental engineering,text-to-video,0
+Environmental engineering,information retrieval,0
+Environmental engineering,information extraction,0
+Environmental engineering,multimodal systems,0
+Environmental engineering,automated writing assistance,0
+Environmental engineering,text simplification,0
+Environmental engineering,author profiling,0
+Environmental engineering,spam detection,0
+Environmental engineering,virtual agents,0
+Environmental biotechnology,temporal processing,0
+Environmental biotechnology,automatic summarization,0
+Environmental biotechnology,grammatical error correction,0
+Environmental biotechnology,machine translation,0
+Environmental biotechnology,natural-language understanding,0
+Environmental biotechnology,natural-language generation,0
+Environmental biotechnology,book generation,0
+Environmental biotechnology,document AI,0
+Environmental biotechnology,dialogue management,0
+Environmental biotechnology,question answering,0
+Environmental biotechnology,text-to-image generation,0
+Environmental biotechnology,text-to-scene generation,0
+Environmental biotechnology,text-to-video,0
+Environmental biotechnology,information retrieval,0
+Environmental biotechnology,information extraction,0
+Environmental biotechnology,multimodal systems,0
+Environmental biotechnology,automated writing assistance,0
+Environmental biotechnology,text simplification,0
+Environmental biotechnology,author profiling,0
+Environmental biotechnology,spam detection,0
+Environmental biotechnology,virtual agents,0
+Industrial biotechnology,temporal processing,0
+Industrial biotechnology,automatic summarization,0
+Industrial biotechnology,grammatical error correction,0
+Industrial biotechnology,machine translation,0
+Industrial biotechnology,natural-language understanding,0
+Industrial biotechnology,natural-language generation,0
+Industrial biotechnology,book generation,0
+Industrial biotechnology,document AI,0
+Industrial biotechnology,dialogue management,0
+Industrial biotechnology,question answering,0
+Industrial biotechnology,text-to-image generation,0
+Industrial biotechnology,text-to-scene generation,0
+Industrial biotechnology,text-to-video,0
+Industrial biotechnology,information retrieval,0
+Industrial biotechnology,information extraction,0
+Industrial biotechnology,multimodal systems,0
+Industrial biotechnology,automated writing assistance,0
+Industrial biotechnology,text simplification,0
+Industrial biotechnology,author profiling,0
+Industrial biotechnology,spam detection,0
+Industrial biotechnology,virtual agents,0
+Nano-technology,temporal processing,0
+Nano-technology,automatic summarization,0
+Nano-technology,grammatical error correction,0
+Nano-technology,machine translation,0
+Nano-technology,natural-language understanding,0
+Nano-technology,natural-language generation,0
+Nano-technology,book generation,0
+Nano-technology,document AI,0
+Nano-technology,dialogue management,0
+Nano-technology,question answering,0
+Nano-technology,text-to-image generation,0
+Nano-technology,text-to-scene generation,0
+Nano-technology,text-to-video,0
+Nano-technology,information retrieval,0
+Nano-technology,information extraction,0
+Nano-technology,multimodal systems,0
+Nano-technology,automated writing assistance,0
+Nano-technology,text simplification,0
+Nano-technology,author profiling,0
+Nano-technology,spam detection,0
+Nano-technology,virtual agents,0
+Agriculture,temporal processing,0
+Agriculture,automatic summarization,0
+Agriculture,grammatical error correction,0
+Agriculture,machine translation,0
+Agriculture,natural-language understanding,0
+Agriculture,natural-language generation,0
+Agriculture,book generation,0
+Agriculture,document AI,0
+Agriculture,dialogue management,0
+Agriculture,question answering,0
+Agriculture,text-to-image generation,0
+Agriculture,text-to-scene generation,0
+Agriculture,text-to-video,0
+Agriculture,information retrieval,0
+Agriculture,information extraction,0
+Agriculture,multimodal systems,0
+Agriculture,automated writing assistance,0
+Agriculture,text simplification,0
+Agriculture,author profiling,0
+Agriculture,spam detection,0
+Agriculture,virtual agents,0
+Forestry,temporal processing,0
+Forestry,automatic summarization,0
+Forestry,grammatical error correction,0
+Forestry,machine translation,0
+Forestry,natural-language understanding,0
+Forestry,natural-language generation,0
+Forestry,book generation,0
+Forestry,document AI,0
+Forestry,dialogue management,0
+Forestry,question answering,0
+Forestry,text-to-image generation,0
+Forestry,text-to-scene generation,0
+Forestry,text-to-video,0
+Forestry,information retrieval,0
+Forestry,information extraction,0
+Forestry,multimodal systems,0
+Forestry,automated writing assistance,0
+Forestry,text simplification,0
+Forestry,author profiling,0
+Forestry,spam detection,0
+Forestry,virtual agents,0
+Fisheries,temporal processing,0
+Fisheries,automatic summarization,0
+Fisheries,grammatical error correction,0
+Fisheries,machine translation,0
+Fisheries,natural-language understanding,0
+Fisheries,natural-language generation,0
+Fisheries,book generation,0
+Fisheries,document AI,0
+Fisheries,dialogue management,0
+Fisheries,question answering,0
+Fisheries,text-to-image generation,0
+Fisheries,text-to-scene generation,0
+Fisheries,text-to-video,0
+Fisheries,information retrieval,0
+Fisheries,information extraction,0
+Fisheries,multimodal systems,0
+Fisheries,automated writing assistance,0
+Fisheries,text simplification,0
+Fisheries,author profiling,0
+Fisheries,spam detection,0
+Fisheries,virtual agents,0
+Animal and dairy science,temporal processing,0
+Animal and dairy science,automatic summarization,0
+Animal and dairy science,grammatical error correction,0
+Animal and dairy science,machine translation,0
+Animal and dairy science,natural-language understanding,0
+Animal and dairy science,natural-language generation,0
+Animal and dairy science,book generation,0
+Animal and dairy science,document AI,0
+Animal and dairy science,dialogue management,0
+Animal and dairy science,question answering,0
+Animal and dairy science,text-to-image generation,0
+Animal and dairy science,text-to-scene generation,0
+Animal and dairy science,text-to-video,0
+Animal and dairy science,information retrieval,0
+Animal and dairy science,information extraction,0
+Animal and dairy science,multimodal systems,0
+Animal and dairy science,automated writing assistance,0
+Animal and dairy science,text simplification,0
+Animal and dairy science,author profiling,0
+Animal and dairy science,spam detection,0
+Animal and dairy science,virtual agents,0
+Veterenary,temporal processing,0
+Veterenary,automatic summarization,0
+Veterenary,grammatical error correction,0
+Veterenary,machine translation,0
+Veterenary,natural-language understanding,0
+Veterenary,natural-language generation,0
+Veterenary,book generation,0
+Veterenary,document AI,0
+Veterenary,dialogue management,0
+Veterenary,question answering,0
+Veterenary,text-to-image generation,0
+Veterenary,text-to-scene generation,0
+Veterenary,text-to-video,0
+Veterenary,information retrieval,0
+Veterenary,information extraction,0
+Veterenary,multimodal systems,0
+Veterenary,automated writing assistance,0
+Veterenary,text simplification,0
+Veterenary,author profiling,0
+Veterenary,spam detection,0
+Veterenary,virtual agents,0
+Agricultural biotechnology,temporal processing,0
+Agricultural biotechnology,automatic summarization,0
+Agricultural biotechnology,grammatical error correction,0
+Agricultural biotechnology,machine translation,0
+Agricultural biotechnology,natural-language understanding,0
+Agricultural biotechnology,natural-language generation,0
+Agricultural biotechnology,book generation,0
+Agricultural biotechnology,document AI,0
+Agricultural biotechnology,dialogue management,0
+Agricultural biotechnology,question answering,0
+Agricultural biotechnology,text-to-image generation,0
+Agricultural biotechnology,text-to-scene generation,0
+Agricultural biotechnology,text-to-video,0
+Agricultural biotechnology,information retrieval,0
+Agricultural biotechnology,information extraction,0
+Agricultural biotechnology,multimodal systems,0
+Agricultural biotechnology,automated writing assistance,0
+Agricultural biotechnology,text simplification,0
+Agricultural biotechnology,author profiling,0
+Agricultural biotechnology,spam detection,0
+Agricultural biotechnology,virtual agents,0
+Psychology,temporal processing,0
+Psychology,automatic summarization,0
+Psychology,grammatical error correction,0
+Psychology,machine translation,0
+Psychology,natural-language understanding,0
+Psychology,natural-language generation,0
+Psychology,book generation,0
+Psychology,document AI,0
+Psychology,dialogue management,0
+Psychology,question answering,0
+Psychology,text-to-image generation,0
+Psychology,text-to-scene generation,0
+Psychology,text-to-video,0
+Psychology,information retrieval,0
+Psychology,information extraction,0
+Psychology,multimodal systems,0
+Psychology,automated writing assistance,0
+Psychology,text simplification,0
+Psychology,author profiling,0
+Psychology,spam detection,0
+Psychology,virtual agents,0
+Cognitive sciences,temporal processing,0
+Cognitive sciences,automatic summarization,0
+Cognitive sciences,grammatical error correction,0
+Cognitive sciences,machine translation,0
+Cognitive sciences,natural-language understanding,0
+Cognitive sciences,natural-language generation,0
+Cognitive sciences,book generation,0
+Cognitive sciences,document AI,0
+Cognitive sciences,dialogue management,0
+Cognitive sciences,question answering,0
+Cognitive sciences,text-to-image generation,0
+Cognitive sciences,text-to-scene generation,0
+Cognitive sciences,text-to-video,0
+Cognitive sciences,information retrieval,0
+Cognitive sciences,information extraction,0
+Cognitive sciences,multimodal systems,0
+Cognitive sciences,automated writing assistance,0
+Cognitive sciences,text simplification,0
+Cognitive sciences,author profiling,0
+Cognitive sciences,spam detection,0
+Cognitive sciences,virtual agents,0
+Economics,temporal processing,0
+Economics,automatic summarization,0
+Economics,grammatical error correction,0
+Economics,machine translation,0
+Economics,natural-language understanding,0
+Economics,natural-language generation,0
+Economics,book generation,0
+Economics,document AI,0
+Economics,dialogue management,0
+Economics,question answering,0
+Economics,text-to-image generation,0
+Economics,text-to-scene generation,0
+Economics,text-to-video,0
+Economics,information retrieval,0
+Economics,information extraction,0
+Economics,multimodal systems,0
+Economics,automated writing assistance,0
+Economics,text simplification,0
+Economics,author profiling,0
+Economics,spam detection,0
+Economics,virtual agents,0
+Business,temporal processing,0
+Business,automatic summarization,0
+Business,grammatical error correction,0
+Business,machine translation,6
+Business,natural-language understanding,0
+Business,natural-language generation,0
+Business,book generation,0
+Business,document AI,0
+Business,dialogue management,0
+Business,question answering,1
+Business,text-to-image generation,0
+Business,text-to-scene generation,0
+Business,text-to-video,0
+Business,information retrieval,1
+Business,information extraction,0
+Business,multimodal systems,0
+Business,automated writing assistance,0
+Business,text simplification,0
+Business,author profiling,0
+Business,spam detection,0
+Business,virtual agents,0
+Finance,temporal processing,0
+Finance,automatic summarization,0
+Finance,grammatical error correction,0
+Finance,machine translation,2
+Finance,natural-language understanding,0
+Finance,natural-language generation,0
+Finance,book generation,0
+Finance,document AI,0
+Finance,dialogue management,0
+Finance,question answering,0
+Finance,text-to-image generation,0
+Finance,text-to-scene generation,0
+Finance,text-to-video,0
+Finance,information retrieval,1
+Finance,information extraction,0
+Finance,multimodal systems,0
+Finance,automated writing assistance,0
+Finance,text simplification,0
+Finance,author profiling,0
+Finance,spam detection,0
+Finance,virtual agents,0
+Tourism,temporal processing,0
+Tourism,automatic summarization,0
+Tourism,grammatical error correction,0
+Tourism,machine translation,0
+Tourism,natural-language understanding,0
+Tourism,natural-language generation,0
+Tourism,book generation,0
+Tourism,document AI,0
+Tourism,dialogue management,0
+Tourism,question answering,0
+Tourism,text-to-image generation,0
+Tourism,text-to-scene generation,0
+Tourism,text-to-video,0
+Tourism,information retrieval,1
+Tourism,information extraction,0
+Tourism,multimodal systems,0
+Tourism,automated writing assistance,0
+Tourism,text simplification,0
+Tourism,author profiling,0
+Tourism,spam detection,0
+Tourism,virtual agents,0
+Sociology,temporal processing,0
+Sociology,automatic summarization,0
+Sociology,grammatical error correction,0
+Sociology,machine translation,0
+Sociology,natural-language understanding,0
+Sociology,natural-language generation,0
+Sociology,book generation,0
+Sociology,document AI,0
+Sociology,dialogue management,0
+Sociology,question answering,0
+Sociology,text-to-image generation,0
+Sociology,text-to-scene generation,0
+Sociology,text-to-video,0
+Sociology,information retrieval,0
+Sociology,information extraction,1
+Sociology,multimodal systems,0
+Sociology,automated writing assistance,0
+Sociology,text simplification,0
+Sociology,author profiling,0
+Sociology,spam detection,0
+Sociology,virtual agents,0
+Political Science,temporal processing,0
+Political Science,automatic summarization,0
+Political Science,grammatical error correction,0
+Political Science,machine translation,0
+Political Science,natural-language understanding,0
+Political Science,natural-language generation,0
+Political Science,book generation,0
+Political Science,document AI,0
+Political Science,dialogue management,0
+Political Science,question answering,0
+Political Science,text-to-image generation,0
+Political Science,text-to-scene generation,0
+Political Science,text-to-video,0
+Political Science,information retrieval,0
+Political Science,information extraction,0
+Political Science,multimodal systems,0
+Political Science,automated writing assistance,0
+Political Science,text simplification,0
+Political Science,author profiling,0
+Political Science,spam detection,0
+Political Science,virtual agents,0
+Geography,temporal processing,0
+Geography,automatic summarization,0
+Geography,grammatical error correction,0
+Geography,machine translation,0
+Geography,natural-language understanding,0
+Geography,natural-language generation,0
+Geography,book generation,0
+Geography,document AI,0
+Geography,dialogue management,0
+Geography,question answering,0
+Geography,text-to-image generation,0
+Geography,text-to-scene generation,0
+Geography,text-to-video,0
+Geography,information retrieval,1
+Geography,information extraction,0
+Geography,multimodal systems,0
+Geography,automated writing assistance,0
+Geography,text simplification,1
+Geography,author profiling,0
+Geography,spam detection,0
+Geography,virtual agents,0
+Archeology,temporal processing,0
+Archeology,automatic summarization,0
+Archeology,grammatical error correction,0
+Archeology,machine translation,0
+Archeology,natural-language understanding,0
+Archeology,natural-language generation,0
+Archeology,book generation,0
+Archeology,document AI,0
+Archeology,dialogue management,0
+Archeology,question answering,0
+Archeology,text-to-image generation,0
+Archeology,text-to-scene generation,0
+Archeology,text-to-video,0
+Archeology,information retrieval,0
+Archeology,information extraction,0
+Archeology,multimodal systems,0
+Archeology,automated writing assistance,0
+Archeology,text simplification,0
+Archeology,author profiling,0
+Archeology,spam detection,0
+Archeology,virtual agents,0
+Anthropology,temporal processing,0
+Anthropology,automatic summarization,0
+Anthropology,grammatical error correction,0
+Anthropology,machine translation,0
+Anthropology,natural-language understanding,0
+Anthropology,natural-language generation,0
+Anthropology,book generation,0
+Anthropology,document AI,0
+Anthropology,dialogue management,0
+Anthropology,question answering,0
+Anthropology,text-to-image generation,0
+Anthropology,text-to-scene generation,0
+Anthropology,text-to-video,0
+Anthropology,information retrieval,0
+Anthropology,information extraction,0
+Anthropology,multimodal systems,0
+Anthropology,automated writing assistance,0
+Anthropology,text simplification,0
+Anthropology,author profiling,0
+Anthropology,spam detection,0
+Anthropology,virtual agents,0
+Philology,temporal processing,0
+Philology,automatic summarization,0
+Philology,grammatical error correction,0
+Philology,machine translation,0
+Philology,natural-language understanding,0
+Philology,natural-language generation,0
+Philology,book generation,0
+Philology,document AI,0
+Philology,dialogue management,0
+Philology,question answering,0
+Philology,text-to-image generation,0
+Philology,text-to-scene generation,0
+Philology,text-to-video,0
+Philology,information retrieval,0
+Philology,information extraction,0
+Philology,multimodal systems,0
+Philology,automated writing assistance,0
+Philology,text simplification,0
+Philology,author profiling,0
+Philology,spam detection,0
+Philology,virtual agents,0
+Linguistics,temporal processing,0
+Linguistics,automatic summarization,0
+Linguistics,grammatical error correction,0
+Linguistics,machine translation,18
+Linguistics,natural-language understanding,1
+Linguistics,natural-language generation,0
+Linguistics,book generation,0
+Linguistics,document AI,0
+Linguistics,dialogue management,0
+Linguistics,question answering,3
+Linguistics,text-to-image generation,0
+Linguistics,text-to-scene generation,0
+Linguistics,text-to-video,0
+Linguistics,information retrieval,4
+Linguistics,information extraction,0
+Linguistics,multimodal systems,0
+Linguistics,automated writing assistance,0
+Linguistics,text simplification,0
+Linguistics,author profiling,1
+Linguistics,spam detection,0
+Linguistics,virtual agents,1
+Religion,temporal processing,0
+Religion,automatic summarization,0
+Religion,grammatical error correction,0
+Religion,machine translation,1
+Religion,natural-language understanding,0
+Religion,natural-language generation,0
+Religion,book generation,0
+Religion,document AI,0
+Religion,dialogue management,0
+Religion,question answering,0
+Religion,text-to-image generation,0
+Religion,text-to-scene generation,0
+Religion,text-to-video,0
+Religion,information retrieval,0
+Religion,information extraction,0
+Religion,multimodal systems,0
+Religion,automated writing assistance,0
+Religion,text simplification,0
+Religion,author profiling,0
+Religion,spam detection,0
+Religion,virtual agents,0
+Literature,temporal processing,0
+Literature,automatic summarization,0
+Literature,grammatical error correction,0
+Literature,machine translation,2
+Literature,natural-language understanding,0
+Literature,natural-language generation,0
+Literature,book generation,0
+Literature,document AI,0
+Literature,dialogue management,0
+Literature,question answering,2
+Literature,text-to-image generation,0
+Literature,text-to-scene generation,0
+Literature,text-to-video,0
+Literature,information retrieval,2
+Literature,information extraction,1
+Literature,multimodal systems,0
+Literature,automated writing assistance,0
+Literature,text simplification,0
+Literature,author profiling,0
+Literature,spam detection,0
+Literature,virtual agents,0
+Government,temporal processing,0
+Government,automatic summarization,0
+Government,grammatical error correction,0
+Government,machine translation,5
+Government,natural-language understanding,0
+Government,natural-language generation,0
+Government,book generation,0
+Government,document AI,0
+Government,dialogue management,0
+Government,question answering,0
+Government,text-to-image generation,0
+Government,text-to-scene generation,0
+Government,text-to-video,0
+Government,information retrieval,0
+Government,information extraction,0
+Government,multimodal systems,0
+Government,automated writing assistance,0
+Government,text simplification,0
+Government,author profiling,0
+Government,spam detection,0
+Government,virtual agents,0
+Law,temporal processing,0
+Law,automatic summarization,0
+Law,grammatical error correction,0
+Law,machine translation,4
+Law,natural-language understanding,1
+Law,natural-language generation,0
+Law,book generation,0
+Law,document AI,0
+Law,dialogue management,0
+Law,question answering,1
+Law,text-to-image generation,0
+Law,text-to-scene generation,0
+Law,text-to-video,0
+Law,information retrieval,0
+Law,information extraction,0
+Law,multimodal systems,0
+Law,automated writing assistance,0
+Law,text simplification,0
+Law,author profiling,0
+Law,spam detection,0
+Law,virtual agents,0
+Education,temporal processing,0
+Education,automatic summarization,0
+Education,grammatical error correction,1
+Education,machine translation,8
+Education,natural-language understanding,0
+Education,natural-language generation,0
+Education,book generation,0
+Education,document AI,0
+Education,dialogue management,0
+Education,question answering,0
+Education,text-to-image generation,0
+Education,text-to-scene generation,0
+Education,text-to-video,0
+Education,information retrieval,1
+Education,information extraction,0
+Education,multimodal systems,0
+Education,automated writing assistance,0
+Education,text simplification,0
+Education,author profiling,0
+Education,spam detection,0
+Education,virtual agents,2
+History,temporal processing,0
+History,automatic summarization,0
+History,grammatical error correction,0
+History,machine translation,0
+History,natural-language understanding,0
+History,natural-language generation,1
+History,book generation,0
+History,document AI,0
+History,dialogue management,0
+History,question answering,1
+History,text-to-image generation,0
+History,text-to-scene generation,0
+History,text-to-video,0
+History,information retrieval,1
+History,information extraction,0
+History,multimodal systems,0
+History,automated writing assistance,0
+History,text simplification,1
+History,author profiling,0
+History,spam detection,0
+History,virtual agents,0
+Philosophy,temporal processing,0
+Philosophy,automatic summarization,0
+Philosophy,grammatical error correction,0
+Philosophy,machine translation,0
+Philosophy,natural-language understanding,0
+Philosophy,natural-language generation,0
+Philosophy,book generation,0
+Philosophy,document AI,0
+Philosophy,dialogue management,0
+Philosophy,question answering,0
+Philosophy,text-to-image generation,0
+Philosophy,text-to-scene generation,0
+Philosophy,text-to-video,0
+Philosophy,information retrieval,0
+Philosophy,information extraction,0
+Philosophy,multimodal systems,0
+Philosophy,automated writing assistance,0
+Philosophy,text simplification,0
+Philosophy,author profiling,0
+Philosophy,spam detection,0
+Philosophy,virtual agents,0
+Ethics,temporal processing,0
+Ethics,automatic summarization,0
+Ethics,grammatical error correction,0
+Ethics,machine translation,0
+Ethics,natural-language understanding,0
+Ethics,natural-language generation,0
+Ethics,book generation,0
+Ethics,document AI,0
+Ethics,dialogue management,0
+Ethics,question answering,0
+Ethics,text-to-image generation,0
+Ethics,text-to-scene generation,0
+Ethics,text-to-video,0
+Ethics,information retrieval,0
+Ethics,information extraction,0
+Ethics,multimodal systems,0
+Ethics,automated writing assistance,0
+Ethics,text simplification,0
+Ethics,author profiling,0
+Ethics,spam detection,0
+Ethics,virtual agents,0
+Arts,temporal processing,0
+Arts,automatic summarization,0
+Arts,grammatical error correction,0
+Arts,machine translation,1
+Arts,natural-language understanding,0
+Arts,natural-language generation,0
+Arts,book generation,0
+Arts,document AI,0
+Arts,dialogue management,0
+Arts,question answering,0
+Arts,text-to-image generation,0
+Arts,text-to-scene generation,0
+Arts,text-to-video,0
+Arts,information retrieval,0
+Arts,information extraction,0
+Arts,multimodal systems,0
+Arts,automated writing assistance,0
+Arts,text simplification,0
+Arts,author profiling,0
+Arts,spam detection,0
+Arts,virtual agents,0
