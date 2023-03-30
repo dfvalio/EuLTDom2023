@@ -7,7 +7,7 @@ We provide here:
   1) The complete list of Domains and NLP tasks that were used in the dictionary-based approach
   2) The csv files corresponding to the language specific results of the LT in each domain, the index 1 refers to general NLP tasks, while the index 2 refers to Higher-level NLP applications
   3) The csv files corresponding to the language specific results of the LT in each domain with all NLP tasks (i.e.: concatenation of 2) files)
-  4) .svg figures presented in the report
+  4) .svg figures presented in the report other than heatmaps
   5) .svg figures of complete heatmaps (i.e.: with all NLP tasks in the same graph for each language) 
 
 For further information, please consult the ELE-2 report available at: ***link available soon*** 
