@@ -1,0 +1,919 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="96.9 54.17 418.24 683.8">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_15">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_16">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_17">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_18">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_19">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_20">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_21">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_22">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_23">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_24">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_25">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_26">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_27">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_28">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_29">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_30">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_31">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_32">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_33">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_34">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_35">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_36">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_37">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_38">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_39">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_40">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_41">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_42">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_43">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_44">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_45">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_46">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_47">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_48">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_49">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_50">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_51">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_52">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_53">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_54">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_55">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_56">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_57">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_58">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_59">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_60">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_61">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_62">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_63">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_64">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_65">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_66">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_67">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_68">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_69">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_70">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_71">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_72">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_73">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_74">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_75">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_76">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_77">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_78">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_79">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_80">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_81">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_82">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_83">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_84">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_85">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_86">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_87">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_88">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_89">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_90">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_91">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_92">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_93">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_94">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_95">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_96">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_97">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_98">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_99">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_100">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_101">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_102">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_103">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_104">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_105">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_106">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_107">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_108">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_109">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_110">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_111">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_112">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.32 54.36H514.8V737.39999H97.32Z" fill-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g id="layer_1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M97.25 54.378H514.8V737.488H97.25Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,792)" stroke-width=".69186" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e0e0e0" d="M276.14 702.21V95.339M312.45 702.21V95.339M348.75 702.21V95.339M385.06 702.21V95.339M421.48 702.21V95.339M457.79 702.21V95.339M494.14 702.21V95.339"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M239.74 123.01H239.85V127.22H239.74ZM239.74 134.85H239.85V139.06H239.74ZM239.74 146.81H239.85V151.02H239.74ZM239.74 158.65H239.85V162.86H239.74ZM239.74 170.61H239.85V174.82H239.74ZM239.94 182.45H239.74V186.66H239.94ZM240.05 194.41H239.74V198.62H240.05ZM240.05 206.25H239.74V210.46H240.05ZM240.16 218.21H239.74V222.42H240.16ZM240.16 230.05H239.74V234.26H240.16ZM240.27 242.01H239.74V246.22H240.27ZM240.82 253.85H239.74V258.06H240.82ZM240.82 265.81H239.74V270.02H240.82ZM240.94 277.65H239.74V281.86H240.94ZM241.05 289.61H239.74V293.82H241.05ZM242.37 301.45H239.74V305.66H242.37ZM242.6 313.41H239.74V317.62H242.6ZM242.6 325.25H239.74V329.46H242.6ZM242.82 337.21H239.74V341.42H242.82ZM243.15 349.05H239.74V353.26H243.15ZM243.15 361.01H239.74V365.22H243.15ZM243.15 372.85H239.74V377.06H243.15ZM243.7 384.81H239.74V389.02H243.7ZM244.03 396.65H239.74V400.86H244.03ZM244.26 408.61H239.74V412.82H244.26ZM245.03 420.45H239.74V424.66H245.03ZM245.81 432.41H239.74V436.62H245.81ZM246.25 444.25H239.74V448.46H246.25ZM247.02 456.21H239.74V460.42H247.02ZM249.02 468.05H239.74V472.26H249.02ZM250.23 480.01H239.74V484.22H250.23ZM250.57 491.85H239.74V496.06H250.57ZM251.23 503.81H239.74V508.02H251.23ZM251.34 515.65H239.74V519.86H251.34ZM254.77 527.61H239.74V531.82H254.77ZM254.99 539.45H239.74V543.66H254.99ZM256.76 551.41H239.74V555.62H256.76ZM257.98 563.25H239.74V567.46H257.98ZM260.64 575.21H239.74V579.42H260.64ZM265.07 587.05H239.74V591.26H265.07ZM266.4 599.01H239.74V603.22H266.4ZM266.95 610.85H239.74V615.06H266.95ZM268.94 622.81H239.74V627.02H268.94ZM269.61 634.65H239.74V638.86H269.61ZM288.31 646.61H239.74V650.82H288.31ZM293.18 658.45H239.74V662.66H293.18ZM328.61 670.41H239.74V674.62H328.61ZM358.16 682.25H239.74V686.46H358.16ZM476.94 694.21H239.74V698.42H476.94Z" fill="#4472c4"/>
+<path transform="matrix(1,0,0,-1,0,792)" stroke-width=".69186" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e0e0e0" d="M239.74 95.339V702.21"/>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_0)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-98.376" x="245.3">0</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_1)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-110.28" x="245.3">0</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_2)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-122.18" x="245.3">1</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_3)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-134.09" x="245.3">1</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_4)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-145.99" x="245.33">2</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_5)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-157.9" x="245.4">6</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_6)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-169.8" x="245.4">6</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_7)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-181.7" x="245.45">9</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_8)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-193.61" x="245.57 249.77004">15</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_9)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-205.51" x="245.62 249.84403">18</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_10)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-217.39" x="245.69 249.91403">22</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_11)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-229.3" x="245.71 249.91004">23</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_12)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-241.2" x="245.88 250.08003">32</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_13)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-253.1" x="246.36 250.56003">58</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_14)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-265.01" x="246.36 250.58403">59</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_15)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-276.91" x="246.48 250.68003">65</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_16)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-288.82" x="246.62 250.82003">73</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_17)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-300.72" x="247.87 252.09403 256.31806">142</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_18)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-312.62" x="248.11 252.31003 256.51008">155</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_19)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-324.53" x="248.18 252.38002 256.58006">159</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_20)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-336.41" x="248.4 252.60002 256.80006">171</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_21)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-348.31" x="248.69 252.89003 257.09007">186</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_22)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-360.22" x="248.69 252.91403 257.13807">187</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_23)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-372.12" x="248.74 252.94004 257.14009">189</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_24)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-384.02" x="249.26 253.46002 257.66007">218</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_25)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-395.93" x="249.58 253.78003 257.98008">235</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_26)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-407.83" x="249.84 254.04003 258.24006">250</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_27)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-419.74" x="250.58 254.78003 258.98008">291</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_28)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-431.64" x="251.35 255.55004 259.75007">333</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_29)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-443.54" x="251.86 256.06004 260.26008">361</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_30)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-455.42" x="252.55 256.75004 260.95008">399</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_31)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-467.33" x="254.57 258.77006 262.9701">510</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_32)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-479.23" x="255.84 260.04005 264.24009">580</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_33)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-491.14" x="256.08 260.30403 264.52806">594</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_34)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-503.04" x="256.78 260.98005 265.18009">631</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_35)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-514.94" x="256.85 261.07405 265.29808">636</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_36)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-526.85" x="260.33 264.53004 268.73008">827</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_37)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-538.75" x="260.52 264.72004 268.92008">837</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_38)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-550.66" x="262.34 266.54005 270.74009">938</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_39)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-562.56" x="263.57 267.77006 271.9701 276.17015">1005</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_40)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-574.44" x="266.18 270.38005 274.58009 278.78013">1149</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_41)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-586.34" x="270.62 274.84403 279.06806 283.29209">1394</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_42)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-598.25" x="271.9 276.12403 280.34806 284.57209">1464</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_43)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-610.15" x="272.57 276.77006 280.9701 285.17015">1500</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_44)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-622.06" x="274.49 278.69004 282.89009 287.09013">1606</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_45)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-633.96" x="275.18 279.38005 283.58009 287.78013">1644</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_46)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-645.86" x="293.88 298.08006 302.2801 306.48014">2673</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_47)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-657.77" x="298.7 302.92405 307.14808 311.3721">2939</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_48)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-669.67" x="334.22 338.42005 342.6201 346.82014">4893</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_49)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-681.58" x="363.79 368.01405 372.23808 376.4621">6520</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_50)">
+<text fill="#515151" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-693.46" x="482.52 486.72004 490.92008 495.12013 499.32017">13052</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_51)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-82.104" x="237.67">0</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_52)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-82.104" x="267.72 271.92005 276.1201 280.32014">2000</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_53)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-82.104" x="304.08 308.28004 312.48008 316.6801">4000</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_54)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-82.104" x="340.42 344.62007 348.8201 353.02015">6000</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_55)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-82.104" x="376.78 380.98005 385.18009 389.38014">8000</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_56)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-82.104" x="411.02 415.22004 419.42008 423.62013 427.82017">10000</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_57)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-82.104" x="447.36 451.584 455.80805 460.03208 464.2561">12000</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_58)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-82.104" x="483.72 487.92005 492.1201 496.32014 500.52018">14000</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_59)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-98.856" x="188.02 193.12697 197.5613 200.99085 205.42519 212.06009 216.19548 220.49697 223.37015 225.24686 230.05487">Document AI</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_60)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-110.74" x="132 136.7748 141.20914 143.99098 148.42531 154.97718 158.95479 161.73664 165.96337 170.28145 172.15816 178.14534 181.04344 182.92015 185.702 187.68666 192.00475 195.91593 197.79264 201.77025 204.9922 208.32212 210.23204 213.4374 216.21924 220.19686 224.6395 228.06905">Automated writing assistance</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_61)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-122.64" x="129.1 131.19261 137.85243 142.17052 144.08045 146.0485 149.47805 151.4627 154.24456 156.12126 159.36814 163.462 170.09691 174.07453 178.52547 181.30731 183.21724 186.74643 188.62314 191.52124 195.83933 197.82399 201.92617 203.80287 205.7128 209.69042 214.0251 218.24353 220.15346 222.03847 223.9484 228.36612">Implicit semantic role labelling</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_62)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-134.54" x="176.3 180.81739 185.15207 189.5864 193.36472 195.24143 199.1526 203.35443 207.67252 211.77469 214.67279 218.6504 221.50699 223.41692 227.72669">Book generation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_63)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-146.45" x="167.76 171.53002 175.72353 180.04161 182.82346 186.99207 191.31015 194.85596 198.95813 200.83484 205.28578 208.18389 212.26946 216.24707 220.02539 221.93532 226.35305">Sentence breaking</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_64)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-158.35" x="147.17 151.26387 155.36605 158.89524 161.76842 164.19319 167.06638 171.38446 173.92549 177.14745 180.66004 184.79543 189.18825 193.29042 195.16713 199.02849 203.222 207.54009 211.7336 214.6317 218.60932 221.35794 223.22635 227.63578">Text-to-scene generation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_65)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-170.26" x="186.74 190.83388 194.93605 198.49016 201.36334 203.78812 206.6613 210.97939 213.52042 217.27382 219.18375 223.56827 227.67044">Text-to-video</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_66)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-182.16" x="145.99 150.08388 154.18605 157.74016 160.61334 163.06304 165.93622 170.2543 172.79534 174.70526 181.34017 185.31778 189.22896 193.40587 195.28258 199.19376 203.29593 207.73027 211.83245 214.73055 218.70816 221.45679 223.44145 227.75954">Text-to-image generation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_67)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-194.06" x="163.82 170.91992 175.35427 177.26419 180.04604 181.93105 188.56595 193.00859 197.32668 201.30429 203.21422 205.09093 208.3378 212.09952 215.41281 218.19466 222.29683 228.93173">Multimodal systems</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_68)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-205.97" x="161.9 165.99387 170.09604 176.73094 181.06563 185.49996 188.39806 192.37567 194.26068 196.13739 200.497 203.46984 207.78792 211.33373 215.4359 218.76581 221.97945 223.88938 228.19916">Temporal processing</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_69)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-217.87" x="154.03 158.55568 162.65785 164.56778 168.5454 171.32724 173.3036 177.62169 181.93978 185.26969 189.58777 191.4977 195.91542 197.79213 201.92752 205.55637 208.33821 211.23632 215.21393 218.75144 221.53328 223.4432 227.75298">Relationship extraction</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_70)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-229.75" x="159.26 163.03002 167.46436 171.56653 175.78496 179.21451 183.64885 185.52556 188.77243 192.8663 196.84392 203.47882 207.61421 211.9157 214.69754 218.67516 221.457 223.44997 227.76805">Speech segmentation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_71)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-241.66" x="179.06 182.83002 187.23944 191.21706 197.85196 199.72867 204.03845 208.11573 210.9889 215.06618 218.57877 221.36061 223.22902 227.5471">Spam detection</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_72)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-253.56" x="155.52 159.29003 163.48354 170.11844 174.09606 178.45566 181.19599 183.06439 186.6102 188.48691 191.38501 195.76122 197.67115 201.75672 203.63343 205.50183 209.47945 213.89717 217.99935 219.86775 221.85242 223.72083 228.03891">Semantic role labelling</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_73)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-265.46" x="165.38 169.47388 173.79196 178.2263 180.13623 183.55748 185.43419 188.7558 192.85797 196.76915 203.40406 207.58927 211.90735 214.6892 218.66681 221.41544 223.32537 227.74309">Topic segmentation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_74)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-277.37" x="178.44 183.2148 187.64914 190.43099 194.74907 199.1834 202.0815 203.9582 208.27629 211.26573 215.58382 218.11653 220.02646 221.93639 223.90444 228.22252">Author profiling</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_75)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-289.27" x="153.55 157.64388 161.74605 164.64415 171.27906 173.18898 177.5984 181.91649 183.82642 188.24414 192.15532 195.91704 197.79375 201.90422 205.56629 208.34813 211.24623 215.22385 218.76136 221.5432 223.45313 227.87085">Terminology extraction</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_76)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-301.18" x="144.72 149.4699 153.87932 156.66117 161.03737 167.58094 171.55855 174.3404 176.30844 179.73799 181.6147 184.91139 189.22948 195.86438 202.51589 206.4935 209.3916 211.25171 214.5567 218.53432 221.31616 223.17627 227.5857">Automatic summarization</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_77)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-313.08" x="181.51 185.60387 189.70604 193.26015 196.13333 198.58303 201.4562 205.77429 208.31533 211.53728 215.97162 220.07379 224.29222 227.72177">Text-to-speech</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_78)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-324.98" x="155.62 160.72696 162.57877 166.55638 168.43309 172.86742 176.72878 181.16312 185.26529 187.142 193.7769 197.75452 202.11412 206.09174 209.93648 214.12999 220.7649 224.90029 229.20177">Dialogue management</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_79)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-336.86" x="127.63 132.15567 136.25785 139.80365 144.12174 148.09935 152.41744 154.32736 157.60744 159.51737 163.84375 167.82137 169.69808 172.47992 176.58209 180.21924 183.00109 187.30257 191.28018 193.19011 195.06682 199.26865 203.58673 206.36858 210.34619 212.2229 214.20757 220.73451 224.92803 229.24611">Recognizing textual entailment</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_80)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-348.77" x="171.02 176.12697 177.97878 181.28377 184.71332 189.14765 193.46573 196.45517 199.66881 203.77098 205.64769 209.6253 213.94339 217.921 219.91397 223.67569 226.92255 228.76604">Discourse analysis</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_81)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-360.67" x="173.23 177.97989 180.94443 184.80579 189.12387 195.75878 199.9606 204.27869 207.06053 208.91233 215.54723 217.45716 221.84168 223.71009 228.02817">Argument mining</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_82)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-372.58" x="166.01 171.2166 174.18114 178.0425 184.6774 191.3289 195.30652 198.20462 200.08133 202.04938 206.36746 210.68555 215.09497 218.52452 221.3977 223.26612 227.5842">Grammar induction</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_83)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-384.48" x="134.62 141.71991 146.12934 149.02744 153.32892 157.76326 162.08135 163.99127 168.409 172.32018 174.19689 177.74269 181.7203 183.63024 185.50695 188.84516 192.94733 196.8585 203.49341 207.58728 212.02162 214.80347 218.78108 221.52971 223.43964 227.85736">Morphological segmentation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_84)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-396.38" x="132.91 138.11661 141.10605 144.99233 151.62723 158.27873 162.25635 165.0382 167.03116 170.46071 174.43833 176.34825 178.22496 182.45169 185.3498 188.21468 192.649 195.5471 197.42382 200.85337 205.28769 208.18579 211.05068 215.2691 218.69866 221.4805 223.46517 227.78325">Grammatical error correction</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_85)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-408.29" x="162.72 167.4699 171.87932 175.85694 180.18332 184.59275 188.91083 191.80893 195.78655 197.66326 200.52814 204.72165 207.93529 212.34471 214.21312 218.5312 221.31305 223.2728 227.59088">Anaphora resolution</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_86)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-420.19" x="173.88 177.40091 181.50308 185.03227 187.01694 190.44649 194.4241 196.30081 198.17752 201.4742 205.57637 212.21128 216.18889 220.5485 223.28882 225.27349 228.70304">Lexical semantics</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_87)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-432.1" x="170.33 174.39897 178.47624 182.00543 184.87862 186.65567 189.96065 191.82906 198.46396 202.79865 204.78331 206.65172 209.18444 211.06945 214.58203 218.45999 221.33318 223.20159 227.51967">Text simplification</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_88)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-444" x="150.5 155.60697 157.51689 160.8385 163.62035 166.51845 168.39516 172.8295 177.14759 179.92943 181.83936 186.25708 190.57517 194.55278 196.4627 198.33942 201.67761 205.77979 212.41469 216.3923 220.7519 223.53376 225.5018 228.93135">Distributional semantics</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_89)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-455.88" x="185.26 190.00159 191.87 194.7681 197.50843 201.8265 205.80413 207.79709 209.6738 213.53516 217.51277 221.59004 225.99947 228.78131">Virtual agents</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_90)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-467.78" x="197.9 201.67002 204.5432 208.64537 215.28028 221.93178 223.80019 228.11827">Stemming</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_91)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-479.69" x="188.42 192.51387 196.83196 199.6138 201.49051 204.3637 208.00916 209.88587 211.88713 213.79706 218.10684 221.88516 223.86153 228.17961">Entity linking</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_92)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-491.59" x="181.82 185.36582 189.46799 196.10289 202.7544 206.73201 209.51386 211.42378 214.74538 218.72299 221.50484 223.41477 227.73285">Lemmatization</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_93)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-503.5" x="122.83 128.13626 132.11388 134.89572 139.28855 142.18665 146.16426 148.02437 150.5654 152.44211 156.41973 160.83745 164.6988 169.01689 172.9945 176.98043 181.0577 182.9344 187.25249 191.66191 195.98 200.05727 203.0218 206.21056 208.9924 212.97002 217.2715 221.68093 223.54933 227.86742">Natural-language understanding</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_94)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-515.4" x="135.02 140.32627 144.30388 147.08573 151.47855 154.37665 158.35427 160.21437 162.7554 164.63211 168.60973 173.02745 176.88881 181.2069 185.18451 189.17043 193.2477 195.1244 198.98577 203.17928 207.49736 211.57463 214.47274 218.45035 221.19898 223.18364 227.50173">Natural-language generation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_95)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-527.3" x="155.04 162.13991 166.57425 168.48418 171.26602 173.15103 179.12162 183.4397 186.3378 190.75553 192.63224 196.76763 200.42137 204.73946 207.63756 211.83107 215.04473 218.25838 220.1683 224.58603 228.90412">Multiword expressions</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_96)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-539.21" x="174.41 178.18003 182.39846 189.03336 193.01097 197.37058 200.15242 202.02913 205.57494 207.45165 211.81125 215.78887 218.77 221.98366 223.89359 228.31131">Semantic parsing</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_97)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-551.11" x="137.42 144.82717 149.14525 152.04335 156.46108 159.0021 162.22405 166.32622 170.76056 173.9742 178.19263 180.06934 184.42894 186.30565 189.5193 193.49692 200.13182 204.58277 206.49269 210.37065 214.805 218.78261 221.56446 223.47438 227.79247">Word-sense disambiguation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_98)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-563.02" x="154.3 158.72603 163.16867 166.06678 170.15235 172.68506 176.82045 179.67704 183.89546 188.21355 191.75936 195.86153 197.73824 200.63634 204.85477 208.0684 212.50273 214.41266 218.72245 221.50429 223.48896 227.80704">Coreference resolution</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_99)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-574.9" x="133.8 139.33878 143.65686 146.4387 148.31542 151.86122 155.83884 157.74877 159.62548 163.17958 167.49767 171.47528 174.37339 178.351 181.8885 184.67035 188.83896 191.73706 193.61377 196.51187 200.59745 204.14325 208.46134 212.43895 216.75704 218.66696 221.41559 223.40026 227.71834">Optical character recognition</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_100)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-586.8" x="161.52 163.61261 167.9307 170.46341 174.88114 177.77924 184.38922 188.36684 191.14868 193.00879 197.41822 201.7363 203.613 206.51111 210.67972 213.46157 216.31815 218.18656 222.26383 226.01723 229.99485">Information retrieval</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_101)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-598.7" x="167.35 171.12003 175.55437 179.65654 183.85005 187.2796 191.71395 193.59066 196.48876 200.56603 204.11183 208.42992 212.40753 216.72562 218.59403 221.37587 223.33562 227.6537">Speech recognition</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_102)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-610.61" x="155.57 157.66262 161.9807 164.51342 168.93114 171.82924 178.46414 182.44176 185.2236 187.07541 191.48484 195.80292 197.67963 201.7818 205.41895 208.20079 211.05738 215.03499 218.54758 221.32942 223.19783 227.60726">Information extraction</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_103)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-622.51" x="144.94 150.24626 154.22388 160.85878 165.06891 169.387 171.92803 176.0385 180.47284 183.25469 185.10649 187.88834 191.65006 193.52677 196.38335 200.57686 204.00641 208.44074 212.3021 216.73644 218.60485 221.38669 223.2385 227.67282">Named-entity recognition</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_104)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-634.42" x="155.76 160.06977 164.04738 166.94548 169.6941 172.23514 176.56153 179.09424 181.63527 184.95688 189.27497 193.35224 197.54575 200.9753 205.38472 207.26143 210.01836 213.99597 217.86563 221.72699 223.71166 228.02974">Part-of-speech tagging</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_105)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-646.32" x="164.57 171.97718 176.29526 179.19336 183.58618 185.46289 188.67653 192.7787 196.75632 203.39122 207.52661 211.8281 214.70128 218.56264 221.43582 223.30423 227.62232">Word segmentation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_106)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-658.22" x="168.91 172.6551 176.84862 181.1667 183.94855 185.9083 192.43524 196.62876 200.94684 203.72869 205.58048 209.55809 213.97582 217.95343 219.83014 223.59186 226.76398 228.63239">Sentiment analysis</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_107)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-670.13" x="164.71 170.23217 174.64159 178.71886 182.02385 184.8057 186.6575 190.97559 195.38501 197.26172 201.23934 205.55742 208.74617 214.71675 218.79402 221.75856 223.62697 227.94506">Question answering</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_108)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-682.03" x="207.48 211.78977 215.76738 218.66548 221.87084 223.78076 228.19849">Parsing</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<g clip-path="url(#clip_109)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="8.304" font-family="Calibri"><tspan y="-693.91" x="164.26 171.35991 175.33753 178.89163 183.20972 185.11965 189.53737 193.63954 195.51625 198.2981 201.1962 205.17382 209.61646 212.8301 214.74002 218.71764 221.49948 223.47585 227.79393">Machine translation</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_110)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.192" font-family="Calibri"><tspan y="-68.304" x="332.26 338.25318 343.11576 350.46018 355.28599 359.8636 363.0716 365.18577 370.0483 372.85188 374.92927 379.37818 382.58619 385.70228 387.81645 391.70466 393.81883 398.39643">Number of articles</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_111)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(-.000000044 -1 1 -.000000044 0 792)" font-size="9.168" font-family="Calibri"><tspan y="117.55002" x="382.73 388.69837 392.57643 397.34379 399.44325 402.51454 406.97019 410.5182">NLP task</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="Span">
+<g clip-path="url(#clip_112)">
+<text fill="#6c6c6c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12.96" font-family="Calibri"><tspan y="-718.3" x="223.06 231.47104 238.27504 248.53937 255.34337 261.7456 266.26866 269.1976 276.02754 280.0192 282.8963 289.10417 293.6531 297.99473 300.97554 306.39283 309.37364 315.8277 320.92097 323.70738 330.51136 336.91358 341.4366 344.4563 352.86735 358.31056 364.9331 367.8102 372.0352 378.24305 383.34928">Number of articles per NLP task</tspan></text>
+</g>
+</g>
+<g id="layer_1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" stroke-width=".69186" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#e0e0e0" d="M97.25 54.378H514.8V737.488H97.25Z"/>
+</g>
+</g>
+</svg>
