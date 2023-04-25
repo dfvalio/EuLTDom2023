@@ -11,4 +11,11 @@ We provide here:
   5) .svg figures of complete heatmaps (i.e.: with all NLP tasks in the same graph for each language)
   6) Three 3-dimensional graphes (html) containing the overview of all languages, domains, and NLP tasks. Each graph correspond to one colour-scale (heat, viridis, and plasma). The x and y axis correspond to domains and tasks respectively. The z-axis corresponds to the number of ACL papers mentioning the specific domain/task/language. By clicking each point, detailed information is displayed. The graph can be rotated and zoomed in for a more detailed analysis of specific areas.
 
-For further information, please consult the ELE-2 report available at: ***link available soon*** 
+Moreover, we provide the following python scripts:
+- overall_analysis.py - code for counting in the data the number of articles mentioning at least twice each language, domain, and NLP task. Each dimension is analysed separatly
+- analysis_nlp_per_domain_per_language.py - code for counting the number of articles that mention each NLP and each domain for every language in our pre-defined list
+- heatmap_generator_for_all_languages.py - code used for generating heatmaps for all languages of our study
+- 3d_graph_generator.py - code used for the 3D graph generation
+
+For further information, please consult the ELE-2 report available at: 
+https://european-language-equality.eu/wp-content/uploads/2023/04/ELE2_Project_Report_EuLTDom2023.pdf
