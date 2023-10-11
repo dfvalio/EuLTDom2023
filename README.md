@@ -8,7 +8,7 @@ We provide here:
   2) The csv files corresponding to the language-specific results of the LT in each domain, index 1 refers to general NLP tasks, while index 2 refers to Higher-level NLP applications
   3) The csv files corresponding to the language-specific results of the LT in each domain with all NLP tasks (i.e.: concatenation of 2) files)
   4) .svg figures presented in the report other than heatmaps
-  5) .svg figures of complete heatmaps (i.e.: with all NLP tasks in the same graph for each language)
+  5) .pdf figures of complete heatmaps (i.e.: with all NLP tasks in the same graph for each language)
   6) Three 3-dimensional graphes (html) containing the overview of all languages, domains, and NLP tasks. Each graph correspond to one colour-scale (heat, viridis, and plasma). The x and y axis correspond to domains and tasks respectively. The z-axis corresponds to the number of ACL papers mentioning the specific domain/task/language. By clicking each point, detailed information is displayed. The graph can be rotated and zoomed in for a more detailed analysis of specific areas.
 
 Moreover, we provide the following python scripts:
